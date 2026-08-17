@@ -1,0 +1,1 @@
+This book was a good introduction to what problems are well suited for sed and awk. Dougherty covered the concepts behind line editing, and builds on examples over the chapters. It's tricky to remember the less frequently used features, but the book also serves as a good reference.

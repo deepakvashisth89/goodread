@@ -1,0 +1,1 @@
+As I write this in 2016, this book is over twenty years old, and is definitely no longer relevant to current PGP usage. However, it's worth reading (IMHO) if you're interested in the history behind PGP. The GNU Privacy Guard (gnupg.org) has largely taken over the PGP market, but it all started with Phil Zimmerman back in 1991.

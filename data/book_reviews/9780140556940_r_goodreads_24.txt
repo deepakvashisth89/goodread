@@ -1,0 +1,1 @@
+Re-Zoom has the reader zooming out of each individual photo. The left page is all black and the right page has the image. The following page shows a zoomed out image of the previous page. The reader is constantly seeing a new image and each image is different than the page before, with some of the image from the previous page in it. We end on a subway train going away.

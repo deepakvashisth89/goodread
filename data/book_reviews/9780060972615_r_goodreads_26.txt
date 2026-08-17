@@ -1,0 +1,4 @@
+Some of the information in this book is interesting.
+But it's tarred with the "gotcha" spirit of the whole. While that's fun at first, it grows increasingly more grating as pages pass.
+
+Also, the author is far too fond of citing items as wrong that aren't, just because he apparently doesn't understand them. That's a bad feature...

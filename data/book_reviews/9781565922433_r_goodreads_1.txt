@@ -1,0 +1,1 @@
+This is invaluable: 900 pages of wheels that I don't have to reinvent, with tons of code samples that actually work. Perfect, especially, for the self-taught programmer who needs to get a lot of text reformatted fast.One nice feature is that the authors often point the reader to pre-existing modules: otherwise, how would I know to look for them?

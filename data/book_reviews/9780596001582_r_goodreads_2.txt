@@ -1,0 +1,5 @@
+Outdated but Still Worth It (for Some)
+4/5
+
+Despite being hugely outdated on recent developments in the Domain Name System—like DoT, DoH, DoQ, ODoH, or DNS over Tor—this book remains a great introduction to BIND, offering a solid high-level overview of DNS. Would I recommend it? Only if you’re planning to use BIND at scale and have the time (and patience) to get through 600+ pages.
+Show more

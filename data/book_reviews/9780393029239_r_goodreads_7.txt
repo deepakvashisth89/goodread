@@ -1,0 +1,8 @@
+This book should really be called an introduction to game theory. I certainly enjoyed it as a way to think about problems and reduce them to a polynomial equation that solves for a particular variable. You can take this a step further and find local minimum and maximum in any given function to find optimal solutions which is essentially what is most of modern machine learning. The hard part is getting an accurate function to define your problem which generally takes a lot of data. This book was written in 1991 before the massive adoption of machine learning to all things business. Those concepts still apply, but now we just have a lot more data.
+
+Turning problems into a a mathematical representation takes the romance and human component out of solving problems. This eats my soul and also produces better outcomes. It takes things like rules and regulations and reduces them to probabilities and punishments. This leads one to think that rules don't need to be followed as long as the equation predicts a better outcome and the risk of rule enforcement is low enough to warrant breaking them. This math help define how to fight the cold war since there aren't any real rule enforces in a geopolitical scale.
+
+So if you want to find the best solutions to problems that can be represented by equations and probabilities, this will be a great book to get you started. The equations for the problems presented in this book were pretty simple which is great for teaching by example. To be competitive today you will likely have to have much more data and much more accurate equations to define your problem space.
+
+May the best math win.
+Show more

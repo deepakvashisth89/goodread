@@ -1,0 +1,1 @@
+This volume teaches the reader everything he or she needs to know in order to use FreeBSD to its full potential. It shows individuals how to put to use the same FreeBSD power that many high-profile Internet sites depend on to work.

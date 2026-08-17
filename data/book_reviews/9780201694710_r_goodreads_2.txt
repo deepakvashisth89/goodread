@@ -1,0 +1,14 @@
+Database Design For Mere Mortals is an unusual book. Most database books describe how to use a particular piece of database software, but give little attention to high-level design of how the data ought to be structured. DDFMM takes the opposite approach: it shows you how to go from a set of ambiguous, half-specified requirements, and go to an unambiguous database model.
+
+The first edition of DDFMM was published in 1996, but it has aged remarkably well for a technical book. Aside from references to Oracle SQL and Waterfall Methodology, it could have been published yesterday.
+
+DDFMM has three central claims.
+
+First, it is useful to spend time designing your database, to make sure that you are tracking the right things, and that your data is represented in the simplest way. If you skip this step, you are pushing work onto the application, which makes designing and maintaining it more complicated.
+
+Second, it is important to create constraints to prevent invalid data from being entered. Data can enter the database through multiple routes, and enforcing correctness at the database level is easier than doing it in each individual application.
+
+Third, the database should be designed to avoid storing the same data in multiple places. If a customer phone number is stored in multiple places, then the application needs to update each copy of the phone number whenever it is changed. This makes the application more complicated.
+
+DDFMM is very clearly written and well-polished. For every concept, there are two or three concrete examples to motivate and illustrate the concept. However, it is also very repetitive and redundant, which makes it a slog to get through.
+Show more

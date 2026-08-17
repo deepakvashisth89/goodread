@@ -1,0 +1,8 @@
+A charming and enjoyable introduction to game theory and its practical applications in business and politics.
+
+Written with a suitably low expectation of prior knowledge, the plain language made grasping some of these otherwise difficult concepts that much easier. Once you get a hold of some of these ideas, its impossible not to see them EVERYWHERE in ordinary life.
+
+Key ideas included recognizing when you're playing "simultaneous move games" as opposed to "sequential move games." In sequential move "games", reason backwards to determine what you should do in any given situation. In simultaneous move "games", look out for what your dominant or most advantageous play is, and do that. But try to minimise the playing of your weaker position. Or you could also strengthen your weakness.
+
+And of course, the authors talk about the Prisoner's Dilemma, Nash Equilibrium and all that other good stuff. Read the book, okay! It will be worth your time.
+Show more

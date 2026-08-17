@@ -1,0 +1,1 @@
+Really interesting account of early(ish) history of Microsoft. It's written from a single perspective, but I like how it breaks down the idea that things were meant to be. The pivotal moment seems to be a skunkworks project that enables Windows to run in protected mode.

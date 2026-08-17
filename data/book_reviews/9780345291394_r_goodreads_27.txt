@@ -1,0 +1,40 @@
+Clifford D. Simak, the third writer to receive the lifetime achievement Grand Master of science fiction title (Heinlein was the first), produced Project Pope in 1981. It was at the end of his long career, which included the brilliant City (1953) and my personal favorite Way Station (Hugo Award 1964). Project Pope is about a group of robots who have spent the last 1,000 years trying to create an infallible pope and true religion. They have been collecting knowledge of the universe, and even multi-verses, to give their robot pope so that it will have all knowledge. They expect to factor out what is universally true across all cultures and thus create a true faith. "Knowledge before faith" is their motto.
+
+
+
+Sounds like a great motto and a great plan, right? Except their project, actually called Vatican 17 not the pope project, is run by robots who would seamlessly fit in with the political jockeying of the Vatican in the HBO series The Young Pope, or that classic funny satire,
+
+Soliloquy of the Spanish Cloister by Robert Browning. Oh, and one of multi-verses that appears to be Heaven turns out to be more like something from Peter Clines’ 14 and The Fold. Ooops.
+
+
+
+The book raises an even more fundamental question than is heaven a place or a state of mind: why does everyone think robots (and artificial intelligence systems) are infallible? 15 minutes with Siri and spell-checking or reading the news about Tesla’s autonomous driving should dispel anyone of that notion.
+
+
+
+What does infallible actually mean? It appears that most writers are referring to either a) being able to find a solution to a problem that was there but couldn’t be found by a human because it required searching over a huge database or set of possibilities or b) making correct inferences using logic. Search and logic, which has many forms by the way, are mainstays of artificial intelligence. Search finds things that are explicitly in the knowledge base or could be directly computed, like finding a needle that we know is in a haystack or the shortest route between locations. Logic finds things that aren’t implicit but logically follow from what is known (also called entailment), like that since Mary lost her needle, was playing in the haystack, and it is not anywhere else, it must be in the haystack.
+
+
+
+Logic isn’t a silver bullet for intelligence for at least two reasons. One is that inference is only one of many mechanisms associated with intelligence. We can also infer new solutions or ideas through analogical reasoning, see The Secret Life of Bots. Inference is not understanding nor it is learning; it’s solving a puzzle of sorts.
+
+
+
+A second reason why logic isn’t a silver bullet is that It can be mathematically correct but wrong if the axioms given to it in its knowledge base are wrong. Articles of Faith has a robot reason about God using what it is told as fact; most people probably wouldn’t have taken some of the pastor’s statements on face value without much more questioning. Logic starts with a knowledge base about the world, then applies an inference engine to deduce a new concept. In Articles of Faith, the new concept was that robots have souls. The different inference engines generally require the knowledge base to be written in a specialized format, such as in Horn clauses to support chaining algorithms or in conjunctive normal form to support theorem resolution algorithms. Horn clauses, and especially CNF, are practically unintelligible to a human. And given that a human has to enter the knowledge base, an error will creep in somewhere in the knowledge base.
+
+
+
+Roboticists from time to time try to take a short cut and create if-then rule bases. These look a lot like Horn clauses and are more intuitively appealing because we know the “logic” syntax from procedural programming languages. Unfortunately if-then rule bases may reflect “programming logic” but don’t have a mathematical guarantee that they will lead to correct inferences (it is sound) or find inferences that it should (it is complete). Worse yet, the answer you get depends on the order of the rules. Humans adding more rules tend to introduce more unwanted side effects. The takeaway is that if you’re trying to use logic, you have to man up and do it right.
+
+
+
+Different variations of logic capture different types of problems, there is no “logic” per se. Propositional logic deals with just facts. First order logic handles relationships and functions plus observations of features and attributes. Neither can handle uncertainty or changes over time. Temporal logics strive to do that but haven’t been completely fleshed out so these logics aren’t sound (only producing logically true conclusions) and complete (can derive any true conclusion that is possible to generate). Regardless of what logic is being used, the point isn’t discovery of new concepts but rather filling in the blanks as needed (e.g., chaining to diagnose why your car isn’t working) or proving a concept that you think is the answer (e.g., resolution to reason whether it is safe for your avatar to go through door A).
+
+
+
+Project Pope proves that Simak is not infallible as a writer; he has written a book where there’s no real action and a lot (and I do mean a lot) of talking. But if you liked C.S. Lewis’ Christian essays more than his Narnia series, Project Pope should be close enough to heaven.
+
+
+
+- Robin
+Show more

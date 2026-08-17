@@ -1,0 +1,20 @@
+I usually use gedit in Linux and other editors for Windows. I had used ViM as secondary option.
+
+Used to see the quotes from hard-core Vi users saying that all other editors are make us lazy. I got a chance to feel that when I was used one of the non-GUI based Linux server. Though, there are many cheat-sheets and books available to know the vi commands, this book is special. If you are in a hurry, you may reluctant to read 494 pages solely for a text editor. But this is one time investment really worth for anything. As a main stream .NET developer, I started using VsViM in Visual Studio after learnt the power of Vi.
+
+There are two primary parts in this book. Basic and advanced Vi and ex editor in first part. The second part covers Vim. The third part introduces some vi clones that I just skipped.
+
+The introductory chapter describes historical perspective starts with TERM about which terminal you to use. Do you know why vi included support for recovering files as its integral part? During that time Unix systems were less stable. Interesting!!
+
+I don't know we will really meet some of the worst case scenario like disk full, but explained in detail.
+
+Chapter 2 in first part is the heart of whole book. The way it is described will make you comfortable to use commands instead of simply force us to memorize them. Nice cheat sheet at the end of chapter.
+
+In Chapter 3, moving between screens are explained. Chapter 4 explains beyond basics that contains nice tips like read-only mode, bookmarking and some advance edits. This would help for people who use Vi for all kind of texts.
+
+Chapter 5 explains the ex editor commands. Well organized.
+
+Chapter 6 is very much important for hard-core developers that explains pattern-matching rules for 'replacing' text. Simply awesome.
+
+I recommend this book for people who has time and want to use Vi's power in their day to day programming.
+Show more

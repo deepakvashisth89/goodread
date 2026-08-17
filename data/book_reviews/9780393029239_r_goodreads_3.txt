@@ -1,0 +1,30 @@
+This is how a book should be written.
+
+It is a fantastic introduction to game theory for the intelligent layman. It covers strategic decision making for innumerable scenarios, including but not limited to: poker, political campaigns, takeover bids, business negotiations, baseball pitches, bargaining, labor relations, tax audits, and nuclear war. The authors strike the perfect blend of in-depth coverage of the technical topics, like Bayes theorem, with concrete examples illustrating the concepts. They avoid jargon as much as possible and deliver the meat of the matter. Sprinkled in like M&Ms in trail mix are humorous anecdotes and some hysterical quotes (with more than a few stemming from the fertile mind of Yogi Berra). I was so engrossed with the book that I failed to take the time to record all the funny quotes and stories; besides, there were too many to record anyway. They await your discovery.
+
+Unfortunately, as you will learn after reading the book, the ideas you discover cannot help you gain an advantage over future adversaries. Why not? Because they will have read the book too. There is no strategic advantage to be gained, the price of admission has merely shifted.
+
+Here are the most fundamental ideas heartlessly wrenched from a charming and intriguing book well worth your time:
+Rules:
+1. Look ahead and reason back.
+2. If you have a dominant strategy, use it.
+3. Eliminate any dominated strategies from consideration, and go on doing so successively.
+4. Having exhausted the simple avenues of looking for dominant strategies or ruling out dominated ones, the next thing to do is to look for an equilibrium of the game.
+
+There are 8 ways to make credible threats or promises:
+1. Establish and use reputation
+2. Write Ks
+3. Cut off communication
+a. Last will and testament
+4. Burn bridges behind you
+a. Cortes burned his ships when he landed in Mexico
+5. Leave the outcome beyond your control
+a. The doomsday device in Dr. Strangelove was set to automatically destroy the planet if the Soviet Union were attacked
+6. Move in small steps
+a. Purchase cocaine in small quantities and take delivery even if you want a lot
+7. Develop credibility through teamwork
+a. Alcoholics Anonymous, Roman army would kill deserters
+8. Employ mandated negotiating agents
+
+Min-Max theorem – in zero-sum games in which the players’ interests are strictly opposed, one player should attempt to minimize his opponent’s maximum payoff while his opponent attempts to maximize his own payoff. When they do, the mini-max and maxi-min are exactly equal. Neither player can improve his position, so there is an equilibrium. Employing your "best mix" strategy requires unpredictability to avoid letting your opponent catch on.
+Show more

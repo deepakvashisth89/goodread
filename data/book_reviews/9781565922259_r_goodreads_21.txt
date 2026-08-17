@@ -1,0 +1,1 @@
+The book does what it purports to do, that being to lead the reader through the use of sed & awk. It's a very dry read, however, and doesn't really do much to stimulate interest in the tools it's ostensibly promoting.

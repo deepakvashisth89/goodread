@@ -1,0 +1,1 @@
+Designed to help developers quickly get up to speed in creating cross-platform applications, this valuable programmers' tool begins with the basics of scripting and goes on to explain how to build interfaces, create menus and windows, edit text, and deal with lists, files, and directories. Original. (Intermediate).

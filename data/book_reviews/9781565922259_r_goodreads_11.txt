@@ -1,0 +1,1 @@
+Very dated now and relies too much on troff formatting codes in the examples - not many people use those nowadays! A new edition should update to JSON or HTML or somesuch for the examples.But the core material is good, especially on sed which has few supporting texts.

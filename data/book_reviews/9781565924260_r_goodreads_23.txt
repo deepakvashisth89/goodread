@@ -1,0 +1,14 @@
+The danger is reviewing this book is that it’ll look as if I’m taking sides in the vi versus emacs wars. I use both, tending toward vi for line-oriented configuration files and program code, and toward emacs for paragraph-oriented text and XML files.
+
+vi and its numerous clones are classic examples of a standard old-time Unix philosophy: “Why be clear when you can be efficient?” I’ll admit that I’m a fan of the efficient-over-easy approach, but it’s not without shortcomings. In particular, it’s easy to forget the terse, efficient commands that you don’t use frequently.
+
+While I won’t make the claim that will make vi easy to use for the uninitiated—even the simple act of navigating text requires (and gets) a chapter unto itself—I will say that it makes vi a much more powerful tool for people who use vi on a regular basis.
+
+The authors have made the reasonable assumption that few people today use the original UNIX vi. Linux distributions, in particular, tend to include a vi clone like vim or nvi. (The exception is Gentoo, which stubbornly refuses to make any vi part of the base installation, relying instead on the woefully underpowered nano.) Since the vi clones each provide a superset of standard vi capabilities, the book includes chapters on four popular clones and the features they offer.
+
+This is a book that stays near my workstation so that help is nearby. Recently, for example, I wanted to import a sendmail genericstable file into an aliases file. The trick is that the format for the two files is subtly different, requiring some text replacement during the import. It turned out to be quite possible, using vi to invoke grep piped into sed before inserting the text. I might have flailed around for some time had the book not been around to assist me to concoct the right recipe:
+
+
+
+Ugly? Yeah. Efficient and scriptable? Yep. And that’s that point.
+Show more

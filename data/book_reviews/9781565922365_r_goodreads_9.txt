@@ -1,0 +1,1 @@
+Critical for anyone working in desktop support, systems administration and systems engineering. It provides an introduction and gentle explanation of DNS and moves on to review common applications of DNS via Bind. I strongly recommend reading this for a general understanding and using the official Bind documentation as a reference for more detail.

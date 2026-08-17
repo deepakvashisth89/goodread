@@ -1,0 +1,1 @@
+Sed and awk are Unix power tools. Actually Awk is more of a programming language. This book is a good tutorial on both tools. Apparently it is one of the most popular books on the subject.

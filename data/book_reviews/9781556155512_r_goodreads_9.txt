@@ -1,0 +1,1 @@
+A series of anecdotes about writing in ANSI C.His prose is solid, so I believe him when he says his code is too.But most of his anecdotes are about making mistakes with pointers, and those dissolve away if you just use a higher-level language.

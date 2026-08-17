@@ -1,0 +1,6 @@
+Not knowing terminfo is driving with your lights off
+
+Several times, I see in newsgroups statements like how do I program keys in UNIX.
+
+Alternatively, I just changed my emulator and get funny characters. This book answers those questions and helps with the understanding of how to build a program that works with any terminal and other applications. Knowing this book can save person-days of speculation on why the control characters do not respond as you expected them to.
+Show more

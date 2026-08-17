@@ -1,0 +1,1 @@
+I can't say enough good things about this book. Although Lisp is in the title, don't let that put you off. This book is really about logically structuring your code and clarity of reasoning. Working through the early AI examples such as Eliza is a thoroughly enjoyable journey of learning.

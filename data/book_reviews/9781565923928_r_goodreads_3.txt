@@ -1,0 +1,8 @@
+This book has been on my shelf for five years. I use it every week; I should probably know more by now but this book always has exactly what I need to jumpstart me through whatever brain-fart froze me up in the first place.
+
+It has earned the nickname: El Rhino Diablo!
+
+---- Updated for Sixth Edition ----
+
+I continue to hold this book in high esteem, and the Sixth Edition is a huge improvement over the old edition that I had. You can tell that Flanagan put a lot of thoughtful work into the re-write. If asked to choose between this and ... I don't know if I could. Both of them are thorough, both of them are comprehensive... Zakas can be easier to digest, I think; but Flanagan also offers this really nice API reference guide in the bottom half of the book. Toss up... There's much to appreciate here, and almost every JavaScript question you might have has an answer between these covers.
+Show more

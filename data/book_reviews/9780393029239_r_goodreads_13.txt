@@ -1,0 +1,1 @@
+The book focuses on game theory as strategy. The overview of the game theories is decent. Unfortunately, the authors attempt to convert everything to a quantifiable value that can then be run through standard formulas. Personally, I think a lot of the quantification is highly qualitative and therefore isn't quite as straightforward as it's made out to be in the book.

@@ -1,0 +1,1 @@
+Before O'Reilly started trying to be hip and cool and coining terms like "Web 2.0", they used to write books that didn't suck. This is one of them.Think you know regular expressions? This book isn't a simple introduction that fades out somewhere near character classes. It's called "Mastering Regular Expressions", and that indeed is it's intent.

@@ -1,0 +1,4 @@
+Though this book is ancient in Internet years I recommend it to anyone that really wants to dig deep into computers. Any time you touch a Unix-like environment (that includes Linux) vi, or more accurately vim, will be installed. Understanding few simple, yet highly unintuitive, commands can make you functional when reading and manipulate files like INIs, Logs, etc.
+
+I will read this book again in two to three years, and maybe pull it off the shelf in the interim to look up a command or two.
+Show more

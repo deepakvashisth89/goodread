@@ -1,0 +1,1 @@
+this is a heartwrenching book about the difficulties of working in ECS. well-written with many important lessons for the reader. i liked it, but didn't enjoy Parent's writing style that much - it just didn't appeal to me.

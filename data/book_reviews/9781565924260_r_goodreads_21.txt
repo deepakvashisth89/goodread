@@ -1,0 +1,1 @@
+Some of the examples were perhaps not very useful (the author focuses a lot on troff, which might not be the sort of thing most of his audience is familiar with) but this a good book on vi and vim, with some historical context on the vi editor that's interesting to read.

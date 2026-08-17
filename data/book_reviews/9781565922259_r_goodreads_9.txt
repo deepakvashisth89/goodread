@@ -1,0 +1,1 @@
+A great book for getting familiar with a pair of UNIX mainstays.A few parts are a bit outdated (especially references to different AWK implementations), but it is definitely worth a read to any regular Linux/UNIX user.

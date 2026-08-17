@@ -1,0 +1,12 @@
+I really enjoyed this book - thanks to Amy for recommending it. It makes me want to read Godel Escher Bach, which I have always wanted to read but never felt brave enough.
+
+I loved the actual mathematical core of each essay - the concepts were very clearly explained and even I, with my less-than-adequate spatial imagination, was able to visualize the abstract mathematical constructs Guillen described. I finally "get" non-Euclidean geometry, irrational numbers and topology, at least well enough for my purposes.
+
+I'd love it if he wrote a new edition - it was written in 1985 and I'm sure many advances have been made in math theory and application since then. For example, the last chapter on combinatorial problems (e.g. airline routing) hinges on the idea that no computer current (in 1985) or in the "foreseeable future" would have the power to completely solve these complex problems. I wonder if this is still the case.
+
+There was one really dated and infuriating reference in the chapter on Godel, where Guillen uses as an example of an unproveable verity "a seductive question" psed by a man to a woman in a TV ad: "Is it true when you say no, you really mean yes?". Argh!
+
+The reason the book got only 4 stars is that each chapter ended with a paragraph or two, trying to tie the math to some aspect of human philosophy, psychology or social theory. Those paragraphs seemed very weak to me, and by half-way through the book, I found myself just skimming them, and turning the page quickly to get to the next substantive bit of writing. I was surprised, because I generally love books that tie ideas together from diverse fields, but these connections just didn't work for me.
+
+I think I'll end up re-reading several of the essays in this book every year or so, to really lock in the math concepts.
+Show more

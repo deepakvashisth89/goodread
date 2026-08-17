@@ -1,0 +1,1 @@
+There are definitely a better books to explain Diffie-Hellman, RSA, ... or PGP. But this one carries a real story of people behind all of this.

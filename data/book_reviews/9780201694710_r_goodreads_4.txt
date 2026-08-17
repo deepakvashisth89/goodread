@@ -1,0 +1,3 @@
+I made it to page 4 and realized this is about operational databases, not analytical databases, so it's not actually that relevant to me. Oops. I've looked it up before but not until this book did I fully realize the difference between databases and data warehouses.
+
+I decided to read/skim the rest anyway and it's an accessibly written guide for beginners, definitely useful. However I will now be seeking a book on data warehouses.

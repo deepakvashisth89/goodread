@@ -1,0 +1,1 @@
+Learned a number of new things - and was really interesting to see it presented in a different way than ‘modern’ vi(m) texts. But spent a lot of time flicking through bits I already new. Mostly good for how much it foregrounded the ‘ed’ stuff.

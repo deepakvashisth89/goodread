@@ -1,0 +1,1 @@
+Chapter 4 is dragged for too long and becomes unbearable. I am no longer interested in what it was telling ...Maybe the best I get from the book is lookaround, lazy quantifier and Perl coolness.

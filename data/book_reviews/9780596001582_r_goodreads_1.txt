@@ -1,0 +1,5 @@
+Definitely the go-to text for all things DNS. Even though the majority of this manual focuses largely on setting up DNS through BIND, it is the most comprehensive guide to learning, setting up, and managing DNS, regardless of which DNS server the reader is accustomed to.
+
+Reading this text cover-to-cover is an ordeal, and not recommended for most readers. Instead, this should be used as a reference manual that can be returned to as necessary. Read the introduction for pointers on which chapters are best for a particular use case.
+
+Show more

@@ -1,0 +1,1 @@
+Spot on book for learning JavaScript in depth.

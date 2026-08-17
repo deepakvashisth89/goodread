@@ -1,0 +1,1 @@
+Solid and gets the job done without being flashy, and without being the easiest reference.Kinda like sed and awk themselves I suppose.

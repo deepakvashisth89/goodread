@@ -1,0 +1,1 @@
+I actually have the older edition that predates vim. It's useful in the sense that some ancient servers still only run vim, I guess. But these days there are also online interactive adventure games that teach vi as well that aren't as dry.

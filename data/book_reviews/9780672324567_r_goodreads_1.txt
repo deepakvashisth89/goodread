@@ -1,0 +1,1 @@
+This is one of the best reference books for getting FreeBSD up and running and exploring its aspects and capabilities. Not something to read from cover to cover, but each chapter runs you through all your options and the authors preferences.

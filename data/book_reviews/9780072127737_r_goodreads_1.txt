@@ -1,0 +1,1 @@
+Le livre est un peu ancien, plus de 10 ans.Il constitue, en son temps, un guide pratique pour sécuriser un système Linux.Avec le recul, ce genre de livres anciens ne mérite pas une lecture minutieuse mais un survol très rapide. La preuve, j'ai pris 50 jours pour le finir !!!

@@ -1,0 +1,3 @@
+If you're interested in database design...read this book.
+
+If you're not? Well, you're probably safe not reading it.

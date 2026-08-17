@@ -1,0 +1,22 @@
+I've never had much interest in psionics ever since I first came across them in a Dark Sun campaign. In that world, it had context, and made sense. In most other D&D settings, outside of a few races, they fit in less. It always just felt like an alternate magic system. And it had several revisions, so I thought I take a look.
+
+Chapter 1 starts off with psychic races - dromite, duergar, elan, githyanki, githzerai, thri-kreen, half-giant, maenad, and xeph. I see a few of the Dark Sun races made it here and that was kinda nice. These other races seem on par with the core races, but they obviously have an advantage when it comes to psionics.
+
+Chapter 2 brings with it the classes: psions, psychic warriors, soulknives, and wilders. As mentioned, they just felt like variants. Psions are sorcerers with power points instead of spell slots. There's a psionics-flavoured familiar (at cost of a feat). Psychic warriors are the spellblade-equivalent, although mind powers probably fit better than spellcasting. Soulknives being a core class instead of a prestige class is just downright weird. Instead of being a specialisation of mind powers, now it's just using one single weapon the entirety of their careers. I feel that the specialisation is too specific for it to function as a core class. Wilders feel like a more restrictive wild mage, their powers are fewer and less flavourful than wild mages.
+
+Chapter 3 is about rules extensions for skills and new psionic-oriented feats. Some are interesting, but a significant number of them are just variants of feats for arcane magic. Not much to say here.
+
+The mechanics of psionics are detailed in chapter 4. Psychic classes learn powers and manifest powers similar to arcane spellcasters, except they use points instead of slots. Their effect-scaling comes from being able to spend additional power points to power up an effect further (capped). I still find the interaction between psionics and arcane magic to be messy. You can still choose to keep them as separate effects, but neither feels satisfactory. Either it's weird that psionics can't affect magic (and vice versa), or they're basically treated as the same thing.
+
+The powers (i.e. spells) comes in chapter 5. As expected, a significant number just draw on existing arcane spells, albeit some with the ability to "power up" with more power points. The drawback about investing more power points is that while you get a bigger effect, the power level of the power you are manifesting is still unchanged. Some of the powers are limited to a specific psion specialisations or psychic warriors only. As mentioned, a nice thing here is that the psychic warrior powers meshes well with their combat-oriented nature, much better than warrior plus arcane spellcaster.
+
+The prestige classes in chapter 6 are quite bland, existing seemingly to just tick boxes - like the completely flavourless Cerebremancer, which is basically just a Mystic Theurge, but for wizard/psion. Most are just material for NPC prestige classes. They're either too weak or way too specific to entice players.
+
+Chapter 7 follows up with a typical assortment of new magic items, materials, and even artifacts. Nothing stands out here except for the fact that they actually managed to come up with a complete set of equivalent item types to match scrolls, wands, rods, and staves.
+
+Chapter 8 has a couple of psionic-type monsters, padded out with entries for the player character races. I find it kind of funny that some psionic-oriented feats and powers that affect power points can't actually affect these monsters, since they don't have power points.
+
+And finally a small appendix with the Mind domain and two deities (one for a prestige class, and another for mind flayers).
+
+All in all, nothing in this sourcebook endeared me to psionics. But from a rules standpoint (and from what I remember about psionics previously), I think it's cleaner and more in line with core D&D.
+Show more

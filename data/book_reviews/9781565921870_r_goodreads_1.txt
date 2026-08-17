@@ -1,0 +1,1 @@
+After you've plowed through a class and Learning Perland Programming Perl, and sleeping with Perl, here'syour handy booklet to help you remember all the thingsyou kinda sorta remember.

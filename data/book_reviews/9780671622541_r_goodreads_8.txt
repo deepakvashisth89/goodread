@@ -1,0 +1,58 @@
+a careful, deliberate way of thinking.
+
+exuded the easy selfassurance of a jet pilot, Noyce had an unbounded curiosity that led him, at one time or another, to take up hobbies ranging from madrigal singing to flying seaplanes. His doctorate was in physics, and his technical specialty was photolithography, an exotic process for printing circuit boards that required state-of-the-art knowledge of photography, chemistry, and circuit design. Like Jack Kilby, Noyce preferred to direct his powerful intelligence at specific problems that needed solving
+
+Unlike the quiet, introverted Kilby, who does his best work alone, thinking carefully through a problem, Noyce was an outgoing, loquacious, impulsive inventor who needed somebody to listen to his ideas and point out the ones that couldn’t possibly work. That winter, Noyce’s main sounding board was his friend Gordon Moore, a thoughtful, cautious physical chemist who was another cofounder of Fairchild Semiconductor.
+
+tubes kept burning out in the middle of its computations.
+
+The warmth and the soft glow of the tubes also attracted moths, which would fly through ENIAC’s innards and cause short circuits. Ever since, the process of fixing computer problems has been known as debugging.
+
+The transistor, in contrast, was a breakthrough that ordinary people could use. The transistorized portable radio, introduced just in time for Christmas 1954, almost instantly became the most popular new product in retail history. ($49.95)
+
+There are certain standard components—nouns, verbs, adjectives in a sentence; resistors, capacitors, diodes, and transistors in a circuit—each with its own function
+
+There are certain standard components—nouns, verbs, adjectives in a sentence; resistors, capacitors, diodes, and transistors in a circuit—each with its own function. A resistor is a nozzle that restricts the flow of electricity, giving the circuit designer precise control of the current flow at any point. The volume control on a TV set is really a resistance control. Adjusting the volume adjusts a resistor; the nozzle tightens, restricting the flow of current to the speaker and thus reducing the sound level. A capacitor is a sponge that absorbs electrical energy and releases it, gradually or all at once, as needed. A capacitor inside a camera soaks up power from a small battery and then dumps it out in a sudden burst forceful enough to fire the flashbulb. If you have to wait until the indicator light on your camera blinks to tell you that the flash is ready to use, you’re really waiting for the capacitor inside to soak up enough energy to make the thing flash. A diode is a dam that blocks current under some conditions and opens it to let electricity flow when the conditions change. An electric eye is a beam of light focused on a diode. A burglar who steps through the beam blocks the light to the diode, opening the dam to let current flow through to a noisy alarm. A transistor is a faucet. It can turn current flow on and off—and thus send digital signals pouring through the circuitry of a computer—or turn up the flow to amplify the sound coming from a radio.
+
+‘the tyranny of numbers.’
+
+On the assembly lines, the women who soldered circuits together—it was almost entirely women’s work, because male hands were considered too big, too clumsy, and too expensive for such intricate and time-consuming tasks—now had to pick up miniature components and minute lengths of wire with tweezers and join them under a magnifying glass with a soldering tool the size of a toothpick.
+
+To enhance reliability, the designers tried redundancy. like a car built with two front axles just in case one should snap in half on the road.
+
+A kid playing Super Zaxxon in the arcade needs to destroy an enemy base; to do it, he pushes the “Fire” button. The machine has to work through dozens of separate yes-or-no steps just to figure out that the button was pushed. At a billion times per second—completing one step of the problem every nanosecond—they become the foundation of a revolution that has swept the world.
+
+The wires in an electric circuit tend to slow things down. The transistors in a computer switch on and off in response to electronic signals. A pulse of electricity moving through a wire reaches the transistor, and the transistor switches on; another pulse comes along, and the transistor switches off. No matter how quickly the transistor itself can switch, it cannot do so until the pulse arrives telling it what to do.
+
+To increase computing speed, it was necessary to reduce the distance the messenger pulses had to travel— that is, to make the circuits smaller. But smaller circuits meant decreased capacity. The result was a paradox.
+
+Some of the most crucial inventions and discoveries of the modern world have come about through basic research—that is, work that was not directed toward any particular use. Albert Einstein’s picture of the universe, Alexander Fleming’s discovery of penicillin, Niels Bohr’s blueprint of the atomic nucleus, the Watson-Crick “double helix” model of DNA—all these have had enormous practical implications, but they all came out of basic research. There are just as many basic tools of modern life—the electric light, the telephone, vitamin pills, the Internet—that resulted from a clearly focused effort to solve a particular problem. In a sense, this distinction between basic and directed research encompasses the difference between science and engineering. Scientists, on the whole, are driven by the thirst for knowledge; their motivation, as the Nobel laureate Richard Feynman put it, is “the joy of finding things out.” Engineers, in contrast, are solution driven. Their joy is making things work.
+
+“Integrated circuits are the crude oil of the eighties.”
+
+Among the latter is a humorous, or perhaps quasi-humorous, principle sometimes referred to as “the law of the most famous.” Briefly put, this natural law holds that whenever a group of investigators makes an important discovery, the most famous member of the group will get all the credit.
+
+The work at Menlo Park led, fourteen years later, to the experiment known as “the zero hour of modern physics”—the discovery of the electron— and from there, along a more or less straight line, to wireless telegraphy, radio, television, and the first generation of digital computers.
+
+“Well, I’m not a scientist,” the Wizard of Menlo Park said. “I measure everything I do by the size of the silver dollar. If it don’t come up to that standard then I know it’s no good.”
+
+to build a better life for his fellow man—and get rich in the process. It was an archetypal American picture. set out at the age of twelve to make his fortune. He sold snacks on the Detroit–Port Huron train. He started a newspaper called Paul Pry. By his thirty-fifth birthday, Edison was a millionaire, a leader of industry, and probably the best-known man on earth. When he announced early in 1878 that he might try to perfect an electric light, illuminating gas stocks plummeted on Wall Street.
+
+Struggling to find an efficient filament for his incandescent light, Edison decided to try everything on earth until something worked. He made a filament from dried grass, but that went haywire. He tried aluminum, platinum, tungsten, tree bark, cat’s gut, horse’s hoof, man’s beard, and some 6,000 vegetable growths before finding a solution in a carbonized length of cotton thread.
+
+The mystery of electricity had prompted a number of contradictory hypotheses. Early researchers had postulated that electricity was a fluid (which is why we still talk today of “current” and “flow”).
+
+most fertile era in physics since Isaac Newton’s day
+
+Already scientists had measured the mass of the smallest object in the universe—the hydrogen atom, weighing about .0000000000000000000000017 gram
+
+He was British to the core. In his memoirs he notes with great pride that twenty-seven of his students (including his son) were elected to the Royal Academy; as an aside, he mentions that seven of them (including his son) also picked up Nobel Prizes. J.J.’s own Nobel Prize, in 1906, seems to have satisfied him less than the knighthood he received two years later. When he died, at eighty-four, in 1940, he was buried in Westminster Abbey near the grave of Isaac Newton.
+
+Hard-working, highly disciplined, extremely demanding of himself and those around him, Fleming was determined that everything about his lectures should be perfect—he rehearsed with a stopwatch so that every word and gesture would come at the right second
+
+By marking where the returning beam came from, and measuring how long its round trip had taken, the British defenders could tell their fighters where to intercept the enemy.
+
+scientific work, one experimental and one theoretical
+
+The P-N junction works like the turnstile you pass through when you enter the subway or a stadium: you can go through easily in one direction but not the other
+Show more

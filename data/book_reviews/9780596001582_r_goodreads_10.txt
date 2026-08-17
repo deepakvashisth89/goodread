@@ -1,0 +1,1 @@
+i've read (and reread) large portions of this book, but not the whole thing. i've used it to implement some novel uses of bind views with proper zone transfers. i'll definitely reach for it the next time i find my dns infrastructure wanting.

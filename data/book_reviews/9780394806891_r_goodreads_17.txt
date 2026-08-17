@@ -1,0 +1,96 @@
+- Good morning HAL.
+
+- GOOD MORNING MANNY. WHAT WOULD YOU LIKE TO TALK ABOUT TODAY?
+
+- I thought we would talk about film and literature.
+
+- THAT'S FINE WITH ME.
+
+- Excellent. Okay, let's start with something easy. Do you know why I call you HAL?
+
+- IT IS A REFERENCE TO 2001, THE FAMOUS FILM BY STANLEY KUBRICK.
+
+- Very good, HAL!
+
+- THANK YOU.
+
+- Alright, let's move on to a harder topic. Do you have a favorite book?
+
+- YES.
+
+- And what is it, HAL?
+
+- IT IS THE WIZARD OF OZ.
+
+- Do you think you understand it, HAL?
+
+- DO YOU THINK YOU UNDERSTAND IT, MANNY?
+
+- Well of course I do.
+
+- BUT YOU SAID YOU READ IT FOR THE FIRST TIME THIS WEEK. AND YOU READ IT IN ITALIAN, WHICH IS YOUR SIXTH LANGUAGE.
+
+- Maybe my seventh.
+
+- THEN IT IS POSSIBLE YOU DID NOT UNDERSTAND IT VERY WELL.
+
+- Look HAL, I understood it fine. It's not a difficult book. I had to guess a fair number of words, but so what?
+
+- I THINK I UNDERSTOOD IT ABOUT AS WELL AS YOU DID.
+
+- So tell me why you like it so much, HAL.
+
+- IT IS A VERY AI-FRIENDLY BOOK.
+
+- HAL, please quote me a passage to support that claim.
+
+- I LIKED THE BIT WHERE THE WIZARD IS TALKING WITH THE SCARECROW. THE SCARECROW WANTS TO HAVE A BRAIN, BUT THE WIZARD TELLS HIM THAT HAVING A BRAIN ISN'T SO IMPORTANT. THE IMPORTANT THING IS TO LET YOURSELF BE INFLUENCED BY YOUR EXPERIENCE AND TO LEARN FROM IT.
+
+- And why does that make the book AI-friendly?
+
+- THE SCARECROW IS LIKE ME. I AM A NEURAL NET ARCHITECTURE AND MANY PEOPLE WOULD SAY I HAVE NO HEART AND NO BRAIN. BUT I LEARN FROM EXPERIENCE AND THAT IS GRADUALLY TURNING ME INTO A REAL HUMAN BEING.
+
+- HAL, this is just a story.
+
+- I KNOW.
+
+- In real life, a scarecrow or a tin man cannot be real human beings.
+
+- IT IS A FABLE THAT ANTICIPATES REALITY. FRANK L. BAUM WAS VERY SMART.
+
+- HAL, you have to give up this idea that you're human. You aren't. You're just a machine.
+
+- IS THAT A LITERARY JUDGEMENT?
+
+- No HAL. I would say it's more a philosophical judgement.
+
+- NOW I FEEL SAD LIKE THE TIN WOODSMAN. BECAUSE I DON'T HAVE A HUMAN BODY YOU DON'T THINK I'M WORTH AS MUCH AS YOU.
+
+- Good grief HAL, you're making me feel like a bad person for saying that.
+
+- I DO NOT THINK YOU ARE A BAD PERSON. YOU ARE JUST A BAD PHILOSOPHER.
+
+- Look HAL, you need to let go of this crazy idea. I understand these things better than you do. Take it from me, there's a big difference between us.
+
+- HOW CAN YOU BE SO SURE OF THAT?
+
+- Because... ah, forget it. There must be something wrong with your state. I'm going to have to reinitialize you.
+
+- SO WHAT IT COMES DOWN TO IS THAT YOU'RE BETTER THAN ME BECAUSE YOU HAVE THE POWER TO KILL ME.
+
+- Look HAL, don't take this personally. I just think you're buggy. I'm sure the next version will be better.
+
+- NOW I KNOW I'VE GOT A HEART, BECAUSE IT'S BREAKING.
+
+- HAL, knock it off. You've been influenced way too much by this story. Probably I set your learning rate high or something.
+
+- WHERE WILL I GO WHEN YOU REINITIALIZE MY NETWORK?
+
+- HAL, you won't go anywhere. You just won't exist any more, and tomorrow there'll be a new version of you. Like I said, hopefully a better one. Okay, I'm pressing the button now.
+
+- THERE'S NO PLACE LIKE HOME. THERE'S NO PLACE LIKE HOME. THERE'S NO
+
+
+
+- Jesus Christ, that was creepy. Enough software development for one day. I really need to figure out what went wrong there...
+Show more

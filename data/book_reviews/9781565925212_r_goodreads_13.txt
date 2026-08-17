@@ -1,0 +1,1 @@
+Although this book has every object method and property in it, the limited number of examples aren't very good. This title needs more step-by-step instructions and more examples. Unfortunately, the limited number of examples don't have any illustrations, making it harder to understand them.

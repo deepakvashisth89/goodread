@@ -1,0 +1,39 @@
+Thesis
+
+Turgid, dogmatic, overrated and well past its sell-by.
+
+Proof
+
+As Einstein exasperatedly said: if Kant had only been able to stop pontificating about the nature of time and space, he might actually have discovered something interesting about them. Einstein, with considerable justification, felt that he had refuted Kant, and was surprised to find that philosophers were reluctant to accept his claim. To me, it seems clear-cut. Kant repeatedly tells us that time and space are not things; but Einstein's insight is that this is wrong. Space-time is, indeed, a that we can roughly conceptualize as a kind of invisible fluid in which we have our physical being. Matter acts on space-time to change its shape, and space-time acts on matter to cause it to move. This interplay between space-time and matter is what we experience as gravity.
+
+Einstein has done far more than correct a detail. The most obvious consequence is that the greater part of the Antinomy of Pure Reason - a good hundred pages of Kant's book - is rendered invalid. Kant argues, roughly, that it is not meaningful to inquire about whether the universe is finite or infinite in space and time. The fact that time and space are things radically changes the situation. Contrary to Kant's claims, the whole of space-time is now also a thing. The question of whether it is finite or infinite turns out to be related to its curvature, which is something we can measure. Thus the finiteness of the universe is part of the world of phenomena, and astronomers during the last few decades have done a great deal of practical work investigating these questions.
+
+In the field of literature, Proust was as annoyed as Einstein. The following passage from (presented here with the Scott Moncrief translation) eloquently sums up his feelings:
+
+
+
+
+
+A brilliant and incalculably important book which more or less created modern thought.
+
+
+
+The difficulty of reconciling the world of sensations with the world of concepts is perhaps the central problem of philosophy. No one, before or since, has done it better than Kant did in the .
+
+I do not think it a coincidence that relativity and quantum mechanics, the great breakthroughs in twentieth century physics, were discovered by German-speaking scientists who were thoroughly acquainted with his work. Einstein's special theory of relativity crucially depends on the insight that different observers experience time and space differently. Lorentz had all the pieces of the jigsaw in front of him, but was unable to put them together into the realization that the "Lorentz contraction" cannot be conceptualized as an objective fact, but is rather observer-dependent. If he had been able to grasp this point, he would have gone down in history as the discoverer.
+
+Quantum mechanics is an even clearer case, where the Schrödinger equation is almost a direct translation of Kant's ideas into mathematical form. The unknowable wave-function represents the noumenal world; the world of phenomena is represented by the system of operators which act on it, where the operators themselves are the senses and their eigenvalues are the sense data. Though one point is oddly reversed with respect to Kant. There is the same duality between determinism and free will, but it is the world of that turns out to be deterministic, while the world of phenomena is not!
+
+The mark Kant made on literature is only slightly less telling. As I recently discovered in Gautier-Vignal's , Proust was fascinated by Kant, and the whole of the Recherche greatly influenced by his ideas. I must reread from this new perspective; I suspect that many things which puzzled me first time round will become clearer.
+_________________
+
+
+The following passage that I just noticed in provides evidence from an unexpected quarter of Kant's influence on Proust:
+
+
+In the early 21st century it's tempting to read this as a miraculous anticipation of modern theories of stellar nucleosynthesis; but in fact, I think it's much more likely that Proust is referencing Kant's . The French translation, , came out in 1886, and he would surely have been able to get hold of a copy.
+_________________
+
+
+By the way, in case anyone's wondering: it took me longer than I'd intended to get around to rereading , but when I did it was extremely helpful to think about Kantian epistemology. Gautier-Vignal wasn't exaggerating at all.
+Show more

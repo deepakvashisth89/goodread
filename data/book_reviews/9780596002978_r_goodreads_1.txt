@@ -1,0 +1,3 @@
+You will learn about TCP/IP in the beginning of the book but the other part is just about using commands and common sense.
+
+If you want to get information about this topic, look somewhere else.

@@ -1,0 +1,1 @@
+This book was evidently constructed with care, yet something about the process of learning Vim makes this (and likely all books of a similar nature) a poor educational aid. A neat read if you just want to fill knowledge gaps rather than learn the syntax from scratch.

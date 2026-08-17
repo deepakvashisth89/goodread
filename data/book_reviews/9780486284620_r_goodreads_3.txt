@@ -1,0 +1,12 @@
+December 30:
+
+Just finished this one. Another indication that the non-expert readers of yesteryear were a breed apart: "The reader will easily guess how the concepts of a field and an ordered field are to be extended to arbitrary classes, operations and relations :-)." (Ok, the smiley face was my own addition, but I'm sure Tarski was giggling maniacally or staring Soviet-stone-facedly as he wrote this; either way, a chipper emoticon seemed in order.) Which is to say, Alfred T., not all readers arrive lickety-split at said deduction. The fact that I did manage to get there eventually, and that I understood most everything else in this concise and highly rigorous intro to logic, testifies to the author's great talents as a popularizer. This is a challenging and terrific book.
+
+December 25:
+
+Just beginning this one, but wanted to weigh in with a thought that exceeded the progress update character limit:
+
+From the preface: "In its original form [this book] was intended as a popular scientific book; its aim was to present to the educated layman...a clear idea of that powerful trend of contemporary thought which is concentrated about modern logic. This trend arose originally from the somewhat limited task of stabilizing the foundations of mathematics. In its present phase, however...it seeks to create a unified conceptual apparatus which would supply a common basis for the whole of human knowledge." (1940)
+
+They sure don't make science popularizers (or educated laymen) like they used to...
+Show more

@@ -1,0 +1,9 @@
+Many years ago I did a fair bit of Javascript programming. At that time I read the current edition of this book. Since then, much has changed and Javascript has just gotten more complex, convoluted, and hacky. This book does an excellent job of capturing all the quirky, inconsistent, and mind-numbingly arcane details of Javascript and presenting them in a matter-of-fact, no-apology way.
+
+This information is invaluable for a Javascript developer since the language itself is so inscrutable since without it, developers can only make their program work through rapid cycles of trial and error.
+
+I give the book four stars because of the heroic work that the author has done (and continues to do with each new edition of the book) despite the fact that Javascript is one of the worst languages in the world of software engineering.
+
+
+
+Show more

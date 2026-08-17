@@ -1,0 +1,22 @@
+【Alfred Tarski / Introduction to Logic / Translated into English by Olaf Helmer】
+
+It would be funny if I sent this to someone online, who says what he says is logically good:
+
+--Therefore, a man using the word "or" in the meaning of contemporary logic will consider the expression given above:
+
+2 • 2 = 5 or New York is a large city
+
+as a meaningful and even a true sentence, since its second part is surely true. (P23, II, 7)
+
+Or even his take on "if 2 • 2 = 5, then New York is a large city" being true (P26, II, 8) because 2 • 2 = 5 is a hypothesis and New York's size is a true conclusion.
+
+--...whenever, in a sentence, we wish to say something about a certain thing, we have to use, in this sentence, not the thing itself but its name or designation. (P58, III, 18)
+
+However, we never should confuse this fallibility of daily logic with science (another mistake of the science person I mentioned).
+
+--Strictly speaking, the terms "sentential function" and "designatory function" do not belong to the domain of logic or mathematics. (P102, V, 32)
+
+And if they uttered the word "model," we can assert that models are not exactly the essence itself, but a realization of certain logic (P126, VI, 38) - which is so often overlooked when we are talking about models in social sciences and humanities - or if they started quoting Gödel, we can ask if they are aware of incompleteness being "two relevant contradictory sentences of which neither can be proved in that discipline" (P135, VI, 41)
+
+However, this book has some deficits: it's not really idealistic as a textbook for "everyone" it calls itself to be: it doesn't have answers for its exercises, its explanations of sufficient verbal explanations about procedures of each proofs (unlike Russell's introductory works). Overall, I'd recommend it if you don't consider it a textbook, but as a test book itself to check on one's own deductive thinking.
+Show more

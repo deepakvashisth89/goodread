@@ -1,0 +1,12 @@
+This is my first try to learn JavaScript, but I have prior experience in C, Java, and Python. So, I like learning new languages from books that just demonstrate the basics without much explanation, but go slower in the advanced topics. And it looks like this book was an excellent choice.
+
+I come to JavaScript with the conception that it is a messy language. But the book shows why everything is like that and how to avoid or deal with the bad parts.
+
+It delivers what it promises. As the author states, it is written "for readers with some prior programming experience who want to learn JavaScript and also for programmers who already use JavaScript but want to take their understanding to a new level and really master the language."
+
+The author also states that he "takes the word definitive in the title of this book seriously." And he really goes to great lengths to deliver that. This is sometimes boring if you are reading the book from cover to cover, but helpful if you use the book as a reference.
+
+The final chapters about using JS in the browser and Node are a great addition to demonstrate how the language is used in practice.
+
+Finally, the chapters about generators and asynchronous JS could benefit from more examples.
+Show more

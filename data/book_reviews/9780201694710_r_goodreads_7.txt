@@ -1,0 +1,3 @@
+I'll have to say, I'd have to think long and hard before I would embark on designing a database. It's so much easier to just work with what you have and hassle a DBA to fix it for you.
+
+This book does give you a very clear, factual way to go about the process of designing a database.

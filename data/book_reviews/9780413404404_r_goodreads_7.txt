@@ -1,0 +1,30 @@
+"Ignorance is always correctable. But what shall we do if we take ignorance to be knowledge?"
+
+***
+
+Neil Postman begins his argument by juxtaposing two iconic dystopian visions:
+- George Orwell’s Nineteen Eighty-Four: Orwell feared that authoritarian regimes would dominate society by inflicting pain, censoring information, and banning books. This represents oppression through fear.
+- Aldous Huxley’s Brave New World: Huxley, whose outlook Postman considers more pertinent, envisioned a society subdued by relentless pleasure and entertainment. This is oppression through desire, where truth is submerged in a "sea of irrelevance".
+Building on Marshall McLuhan’s well-known assertion that "the medium is the message," Postman introduces his own formulation: "the medium is the metaphor".
+Print Culture:
+In the "Age of Typography" that characterized early America, the written word reigned supreme. This medium encouraged reasoned thought, logical structure, and deep intellectual engagement. Public discourse—from political debates to religious sermons—demanded that citizens follow intricate arguments over extended periods.
+Television Culture:
+Television, by contrast, inherently favors visual stimulation, brevity, and emotional resonance. It stands in opposition to the norms of print, reducing nuanced arguments to shallow visuals and "30-second soundbites". Its core bias is toward entertainment, a format that must "suppress the content of ideas in order to accommodate the requirements of visual interest".
+Postman demonstrates how television, as a metaphor, has diminished the seriousness of public discourse across multiple domains:
+- Politics: Campaigns become contests of charm and image, emphasizing appearance and celebrity over ideology and substance. Ronald Reagan, a former actor, exemplified this shift during Postman’s era. Political advertisements prioritize emotional reassurance rather than logical argumentation.
+- News: Television news presents a "peek-a-boo world" filled with fragmented and context-free information. The "Now... this" segue between grave events and commercial breaks conditions viewers to perceive all content as disconnected, trivial, and lacking consequence.
+- Religion: On television, the sacred transforms into spectacle. Televangelists emerge as media personalities, and the depth of spiritual teachings is diluted into entertainment-friendly formats, stripping them of their original profundity.
+- Education: Television reshapes learning by equating it with amusement. Programs like Sesame Street suggest that education should always be enjoyable, which can hinder children when they face the demanding and often monotonous nature of traditional schooling.
+- Commerce: Advertising on television shifts emphasis from the intrinsic value of a product to the emotional and aspirational identity of the consumer. It promotes a feeling rather than a feature.
+
+Although Postman wrote before the internet’s ubiquity, his insights have grown increasingly relevant with the advent of social media and smartphones. The same tendencies—visual allure, fragmentation, and emotional provocation—that defined television are now magnified across digital platforms. This has produced an even more immersive and pervasive "peek-a-boo" world, where outrage and fleeting visuals often overshadow thoughtful analysis and reasoned discourse.
+In the end, Postman’s critique stands as a lasting appeal for media literacy. He urges readers to recognize the profound influence of technology on cognition and to actively pursue richer, more intellectually demanding forms of communication.
+
+***
+
+" There are two ways by which the spirit of a culture may be shriveled. In the first—the Orwellian—culture becomes a prison. In the second—the Huxleyan—culture becomes a burlesque.
+No one needs to be reminded that our world is now marred by many prison-cultures whose structure Orwell described accurately in his parables.
+If one were to read both 1984 and Animal Farm, one would have a fairly precise blueprint of the machinery of thought-control as it currently operates in scores of countries and on millions of people. Of course, Orwell was not the first to teach us about the spiritual devastations of tyranny. What is irreplaceable about his work is his insistence that it makes little difference if our wardens are inspired by right- or left-wing ideologies. The gates of the prison are equally impenetrable, surveillance equally rigorous, icon-worship equally pervasive.
+What Huxley teaches is that in the age of advanced technology, spiritual devastation is more likely to come from an enemy with a smiling face than from one whose countenance exudes suspicion and hate. In the Huxleyan prophecy, Big Brother does not watch us, by his choice. We watch him, by
+ours. There is no need for wardens or gates or Ministries of Truth. When a population becomes distracted by trivia, when cultural life is redefined as a perpetual round of entertainments, when serious public conversation becomes a form of baby-talk, when, in short, a people become an audience and their public business a vaudeville act, then a nation finds itself at risk; culture-death is a clear possibility."
+Show more

@@ -1,0 +1,1 @@
+This book really cleared a lot of the fog about regular expressions and the power they unlock.

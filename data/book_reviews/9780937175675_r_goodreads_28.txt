@@ -1,0 +1,6 @@
+Not really here to review as much as to point out a minor correction to the listed authors. Being as the only new material in this edition is about vim (which doubled the original size of the book -- seven new chapters), and being as the reviews here kind of focus on the added value of the new vim chapters I thought I'd also add that I am the author of the new material of this edition. It'd be nice to see my name included as "author". I'm just saying.
+
+-Elbert Hannah
+
+(oh yeah, I give it five stars ... it actually is a decent vim primer across many feature sets.)
+Show more

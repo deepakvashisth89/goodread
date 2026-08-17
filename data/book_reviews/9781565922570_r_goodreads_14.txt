@@ -1,0 +1,1 @@
+A good introduction and reference book on regular expressions. I've read this book as some who knows and has used regular expressions but has found its use to be difficult. This book is a much more in depth learning tool than the 5 min explanations you will find online.

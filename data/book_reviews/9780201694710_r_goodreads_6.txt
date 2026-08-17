@@ -1,0 +1,4 @@
+A bit dryer in tone than my other textbook for database design, and with no hands-on practice, this book was still a helpful guide to learning the theory and best practices of relational database design.
+The chapters are laid out logically, and the explanations are clear. Lots of visuals are provided too, which I really value. Each chapter has a helpful summary at the end and questions to quiz yourself.
+This is a good book for beginners and would be worthwhile to keep as a reference.
+Show more

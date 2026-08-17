@@ -1,0 +1,1 @@
+While I don't recommend doing anything in Perl, this was a great book back in the day.

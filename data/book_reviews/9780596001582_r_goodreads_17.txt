@@ -1,0 +1,1 @@
+This book is the gold standard and I think it could have been written by one of my colleagues, Tan. Yes, when a server had issues recently he rebuilt the DNS settings from scratch.

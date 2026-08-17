@@ -1,0 +1,1 @@
+I've read most of this book, mostly focusing on learning Common Lisp and not the AI parts.

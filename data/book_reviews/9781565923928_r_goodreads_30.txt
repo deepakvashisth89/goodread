@@ -1,0 +1,6 @@
+Libro de estudio y de consulta técnica seria. Fue el primer libro que me permitió bucear al detalle en programación web. Pero su extensión podría hacerlo pesado para recién iniciados. Vale la pena tenerlo en físico más que en epub, debido a la claridad de los códigos en los ejemplos. En resumen, es una completa enciclopedia breve de conceptos y funcionalidades de Javascript. Aunque al 2024 ya existen nuevas características que obligarían a una nueva edición. Saludos desde Guayaquil, Ecuador.
+
+***
+
+A book for serious technical study and reference. It was the first book that allowed me to dive into web programming in detail. But its length could make it heavy for beginners. It is worth having it in physical form rather than in epub, due to the clarity of the codes in the examples. In short, it is a complete brief encyclopedia of Javascript concepts and functionalities. Although by 2024 there are already new features that would require a new edition. Greetings from Guayaquil, Ecuador.
+Show more

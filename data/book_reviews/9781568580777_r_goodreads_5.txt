@@ -1,0 +1,11 @@
+L’autore esplora uno dei problemi matematici più famosi e affascinanti della storia: l'Ultimo Teorema di Fermat. Enunciato dal matematico francese Pierre de Fermat nel XVII secolo, afferma che non esistono soluzioni intere per l'equazione "x^n + y^n = z^n" quando n>2.
+Il libro segue l'intricata ricerca per dimostrare il teorema, dall'epoca di Fermat fino ai giorni nostri, evidenziando le diverse strategie e le personalità coinvolte nel tentativo di risolvere questo enigma.
+Azcel riesce a fornire al lettore le coordinate matematiche per capire l'essenza del problema, mantenendo un linguaggio poco tecnico, comprensibile ai più.
+
+Uno dei momenti cruciali nella storia del teorema è l'enorme progresso compiuto nel 1994 da Andrew Wiles, un matematico britannico, che è riuscito a dimostrare il teorema utilizzando complesse tecniche matematiche.
+Questi progressi non sono stati avulsi da critiche e rivendicazioni tra vari studiosi, aumentando il clamore dietro L'enigma di Fermat.
+
+Il testo segue un approccio storico andando indietro nel tempo per spiegare le fondamenta matematiche della soluzione dell'enigma.
+Le pagine finali ci fanno sorridere: sembra che l'affermazione di Fermat, ovvero che era riuscito a dimostrare il teorema, ma che per ragioni di spazio non abbia potuto scriverlo, sia quantomeno bizzarra.
+Infatti, molto probabilmente Fermat non conosceva la matematica necessaria a dimostrare il teorema, ma soprattutto l'enigma non poteva essere dimostrato in poche righe: Wiles ha scritto 200 pagine.
+Show more

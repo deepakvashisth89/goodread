@@ -1,0 +1,56 @@
+Since it's Good Friday, and thus exactly 717 years since Dante's pilgrim descended into the underworld, I thought it would be an auspicious moment to tell people about the project I've been pursuing together with Dr Sabina Sestigiani, an Italian lecturer at Swinburne University in Melbourne. Dante's poem is celebrated as one of the treasures of world literature - but it is not very accessible, being written in archaic Italian. Although there are translations, and even these are wonderful, a translation of a poem can never be more than a shadow of the original. T.S. Eliot famously advised people just to dive in and start reading. It worked for Eliot, and you feel that in principle it must be the right approach. All the same, most readers find it a daunting prospect.
+
+We wondered if there was any way to make the voyage easier. Using the CALL platform we've developed at Geneva University, Sabina and I have been putting together a first version of what a electronic poetry appreciation assistant might look like. If you have a headset and you're on Chrome, Firefox, Safari or Explorer - I'm afraid we don't yet have it available for mobile devices - try going . Log in as 'guest' (no password required) and click 'Allow' on the popup to let the app access your microphone. You should now be on a screen that looks like this:
+
+
+
+On the right, there's a scrollable pane with the first 30 lines of the in slightly modernised Italian orthography. You can hover your mouse over any line to see it in Longfellow's English translation - we chose Longfellow since he's both a great poet in his own right and translates very literally. At the top, there's an embedded audio file where you can hear Sabina reading the text aloud. Italians who've tried out the app have been complimentary about her interpretation.
+
+On the left, we have an area where you can practise reading yourself. You're shown the poem one line at a time. If you press the Help button (question-mark icon), you'll get Longfellow's translation and hear Sabina reading just that line. The intention is that you should listen a few times, then press on the Record button (microphone icon), , and release. You should hear your voice echoed back, and the app will let you know if you said it approximately right: you'll get a green border for "okay", red for "try again". You use the arrows to move to the next and previous lines. We currently have six extracts loaded, taken from Canti I (opening), III (the Gates of Hell), V (Paolo and Francesca), X (Farinata), XXVI (Ulisse) and XXXIII (Ugolino). You can find the other extracts by using the Lesson tab on the left.
+
+Speaking just for myself, I've found the app very helpful for developing my appreciation of the beautiful language; I've soon got to the point where I want to learn pieces by heart, and find myself repeating them mentally. We're curious to hear what people think - please let us know! If you want to try creating your own interactive versions of poems, it's straightforward and just involves copying text onto a spreadsheet and recording the audio using an online tool. Message me and I'll send you details.
+
+Happy Easter!
+______________________
+
+My multi-talented colleague Irene Strasly (she makes a guest appearance in ) has used the platform to create . Italians who've heard them say they're quite good.
+______________________
+
+. Here is the first one, with a beautiful translation by Peter Robinson:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+She wrote it in 1929, when she was only seventeen. Nine years later, she was dead.
+______________________
+
+Our friend Kirsten has added an interactive English poem - Shakespeare's sonnet CXXXVIII, which I'd never properly noticed before. You can find it .
+Show more

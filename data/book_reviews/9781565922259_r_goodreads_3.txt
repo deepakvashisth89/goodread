@@ -1,0 +1,1 @@
+I really don't care for this book. It's probably OK if I wanted to read the entire thing to learn to use sed and awk, but it makes a poor reference. Virtually every time I have turned to this book to learn how to do something in sed or awk, I was left disappointed. The information may be there, but I couldn't find it by browsing the book.

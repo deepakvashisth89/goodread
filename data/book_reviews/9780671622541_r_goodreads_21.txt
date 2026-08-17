@@ -1,0 +1,6 @@
+Readable, incredibly informative fire the non-engineer
+
+Reid's book is clear, understandable, but delves into electronics, in general, and tie integrated circuit, in particular. He begins with Jack Kilby and Bib Noyes and the monolithic idea, but then the story goes back in time covering all that lead to the microchip. I particularly liked that he focused on who invented rather than what was invented.
+
+Reid treated his roux much like Kilby and Noyes: he took the problem and found a solution. Kilby and Noyes needed a solution to the tyranny of numbers. Reid needed to get behind the machine to the human creativity svc innovation. Both solutions are elegant.
+Show more

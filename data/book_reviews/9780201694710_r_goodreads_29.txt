@@ -1,0 +1,6 @@
+Es un libro muy educativo acerca del diseño de bases de datos y parte del objetivo del autor es hacer muy detallista en las explicaciones para llegar a un público más grande. Es precisamente esto donde el está el aparente problema del libro y es que resulta algo tedioso que una explicación simple, resulte en páginas y páginas detallando un ejemplo y al final el proceso resulte más grande de lo que aparentemente es.
+
+Al final genera una explicación acerca de los modos normalizados y como es que llegó a su forma de trabajo, necesario llegar a leer esa parte para comprender como es que su forma funciona.
+
+También coloca libros sugeridos que a mi parecer hace que un libro generé la confianza para saber que tiene continuidad y no representa la verdad absoluta.
+Show more

@@ -1,0 +1,6 @@
+I LOVED this book. I read this book in a week when preparing for my first corporate data analysis job! It’s about database design of course, but if you don’t understand how databases work, it’s going to be hard to produce accurate work as an analyst.
+
+I really liked how clear the book is in helping you understand how data can be structured well, without resorting to using the “normal forms” concept (hint: you can still ignore the “normal forms” concept as this book will give you a better understanding)!
+
+I remember in that interview there was even a trick question that this book helped me ace! (It was about subset tables)
+Show more

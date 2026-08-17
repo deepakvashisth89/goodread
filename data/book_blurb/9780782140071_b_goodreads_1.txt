@@ -1,0 +1,1 @@
+FrontPage is Microsoft's Web development software. This text provides a learning tool for anyone who needs to learn the essentials of FrontPage, providing a visual approach, and acting as a quick reference guide.

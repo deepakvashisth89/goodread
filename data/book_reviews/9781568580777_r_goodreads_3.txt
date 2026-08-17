@@ -1,0 +1,13 @@
+This is a relatively short book that you can finish in no time. Don’t be intimidated by its title, it reads more like a history book than a math book. While it does contain formulas and some mathematical language, they are presented in an easily understandable way. Even without an in-depth background in mathematics, you can grasp what the author is trying to convey.
+
+Reading this, you’ll see the beauty of mathematics, how discoveries are interconnected and how solving a problem often requires tremendous collective effort, sacrifices, and decades of work. You’ll meet dedicated, passionate people who devote their lives to mathematics, and I find such dedication and love for math truly admirable and beautiful.
+
+***Thanks to the SSM Library for letting me borrow this book.
+
+***
+Andrew Wiles himself termed his proof of Fermat's Last Theorem a "twentieth-century proof," based on the fact that it rested on many years of prior work. The solution of the theorem required a ton of work and collaborations from many mathematicians: Ernst Kummer, Barry Mazur, Gerhard Frey, Jean-Pierre Serre, Ken Ribet, Yutaka Taniyama, and Goro Shimura, whose combined efforts drew together diverse areas of mathematics.
+
+Fermat lived many hundreds of years before and therefore could not conceive the contemporary method or techniques required in Wiles' proof, especially those on the Shimura-Taniyama conjecture. Some would argue that he probably did have simpler proof with him, yet there was no evidence at all. His unclear scribbling in the margins and not mentioning the result for nearly 28 years proves that he would have to be wrong in his theorem or just plainly turned towards other things more.
+
+While the theorem’s solution has been verified in meticulous detail, the possibility of an alternative, simpler proof remains open. Fermat’s true intentions and any potential insights he had will likely remain a mystery, as the original text containing his note has never been found.
+Show more

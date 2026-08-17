@@ -1,0 +1,1 @@
+A small handbook in order to learn basic commands for the Unix operating system. Oriented for beginners and non-computer scientists in order to use the operating system for work related functionalities. Very short and easy to read. Not for those who wants a deeper set of insight into what is after all the basis of most operating system running our digital world.

@@ -1,0 +1,1 @@
+I've been working with UNIX for about 19 years but I've never taken the time to learn sed and I've only worked a bit with awk. This book has help fill in quite a large gap in my knowledge and skills.

@@ -1,0 +1,1 @@
+My main takeaway from this book is that Sendmail configuration is totally crazy.

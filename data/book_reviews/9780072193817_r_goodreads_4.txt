@@ -1,0 +1,1 @@
+HE is required reading for anyone with a network to secure. Also some of the attacks are quite interesting from an engineering standpoint.Only drawback is that it doesn't go far enough. I would prefer to see more packet level information. Don't tell me it's an arp spoof, show me.

@@ -1,0 +1,8 @@
+Applied Linear Statistical Models is a textbook by John Neter, William Wasserman, and Michael H. Kutner. The authors initially released the book in 1974, but my edition is from 1987. The authors realized that the computer is a phenomenal aid and included more content based on computing.
+
+The first chapter is a crash course in Probability and Statistics. It covers tables, decision rules, and more. The examples used are clearly defined and explained. It may go without saying, but you should be familiar with Calculus for this book. The book discusses partial derivatives in some sections.
+
+After the foundational chapters, the book covers linear regression modeling from single or multiple variables. As before, it clearly defines and covers the topics. I have no issues with the book besides its age, but it isn't as though mathematicians developed a new form of statistics. The book also covers nonlinear regression, which is heavily computer-oriented. Should you find this book somewhere, I think it's still serviceable. I managed to find it at my local library.
+
+I enjoyed the book. Thanks for reading my review, and see you next time.
+Show more

@@ -1,0 +1,6 @@
+Very good book about the history of the microprocessor. The author does a great job of explaining vacuum tubes, resistors, capacitors, logic gates, etc. and tracing their importance through to our everyday life. For example, vacuum tubes made TVs and large cabinet radios possible for Americans to own and have right in our living rooms. Then transistors made pocket radios possible. These were life-changing discoveries, and eventually they led to Jack Kilby and Robert Noyce inventing the monolithic, integrated circuit - basically you could take a number of individual electronic components and put them together on one teeny, tiny integrated circuit or chip.
+
+Thanks goodness for smart, dedicated geniuses like Kilby and Noyce. They changed the course of history, and allowed me to have an amazing career in networking and software engineering.
+
+This book should be required reading for aspiring students in high school or college.
+Show more

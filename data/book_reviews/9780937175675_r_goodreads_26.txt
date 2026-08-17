@@ -1,0 +1,4 @@
+Another great book from O'Reilly. The text has something to offer no matter whether you are a complete beginner or a seasoned vi veteran. I've been using the editor for years yet found many illuminating explanations of topics I never really took the time to master, like ex commands or vim tabs. I am also grateful to the authors for suggesting many nifty command combinations I haven't been aware of - I know I am a more proficient typist now thanks to reading the book.
+
+The writing is clear and often humorous (that is, if you are into the geeky, Unix type of humor) and there is good progression from fundamental towards advanced topics. I only wish the authors did not waste so many pages on the other vi clones (which I had no desire to learn about, but your objectives may vary) and focused instead on some of the more involved parts of vi/vim, eg. scripting.
+Show more

@@ -1,0 +1,4 @@
+This book is a very brief history of a significant part of the mathematics that is presented in the perspective of one of the most difficult mathematical problems - Fermat's Last Theorem. It has been formulated by Pierre de Fermat and challenged many mathematicians for centuries, until it was quite recently solved by Andrew Wiles. Fermat's Last Theorem states that no three positive integers a, b, and c satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2.
+
+As one can imagine, the arrival to the solution was hard and with numerous byways. The search for the solution of the problem prompted the development of some other important number theories. That is presented by the author in a quite clear way and is a good read for everybody with interest in math. I know mathematicians have issues with some of the thesis in this book, but as an overall history of the famous problem it is a valid and interesting text.
+Show more

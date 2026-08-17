@@ -1,0 +1,1 @@
+Handy reference used with 'The AWK Programming Language'as it also contains sed.Used awk for a lot of statistical analysis on large text files.Handy once you get used to it.And I need a reference as 16 minutes after you write thisstuff, you can't tell what it is doing.

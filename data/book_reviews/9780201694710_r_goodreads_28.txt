@@ -1,0 +1,6 @@
+Although this took me longer to get through than I anticipated (other things kept intervening), I'm glad I stuck with it. Although I've had a bit of formal training on databases in various classes and "webinars," most of my knowledge is from accumulated experience, and therefore not always terribly well-structured. 'Database Design for Mere Mortals' helped me restructure what I know and place it against a larger framework of design methodology. The writing is clear and concise, and well-provided with practical examples.
+
+
+
+I will be looking for ways to implement some of the insights I gained from reading it... it's already enabled me to identify some of the design-related problems we're currently experiencing at our company. Although I may not ever have a real chance to design a database from the ground up (that's not really my job), I have a much more complete appreciation of what's involved (and what ought to be involved).
+Show more

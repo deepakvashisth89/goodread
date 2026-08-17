@@ -1,0 +1,6 @@
+I had a 2nd edition of this book - I guess there's got to be a convention somewhere for this sort of thing and this is as good as any other, but still there was a lot of arbitrariness and not a lot of reason why we do things the way we do. Some of the rules were plain silly. There was some, but not much historical value in the insight into how computer science as a field used to look pre-world wide web, before the internet had grown big enough to be relevant to the average researcher, but after the personal computer (including VIC-20s!) had hit the scene. It's not so much that this book is dated (it was) but that the rules were barely useful in the first place, we just didn't know it.
+
+What would be better than this book is to just keep a copy of a bunch of research papers around (which you're going to do, anyway, as a researcher) and just use them as an example. That's probably how they came up with these rules, anyway.
+
+There's a list of who's who of classical literature in the back which wouldn't be the worst place to start as a reading list for classical literature.
+Show more

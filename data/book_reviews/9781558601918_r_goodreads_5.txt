@@ -1,0 +1,1 @@
+Surprisingly basic and outdated bookIntro into Common Lisp with overview of specific outdated use cases. This book does not cover high level difficulties in AI development, falling back to description of historically significant AI projects, that are not representative of the field anymore and are covered on a very basic level.

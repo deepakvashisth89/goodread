@@ -1,0 +1,10 @@
+Of the JavaScript books I've looked at, this is the one I would recommend to any and all people getting started with the language.
+
+On the plus side, it is comprehensive, systematic, clear, and generally well-written. I am amazed how often even classic books on programming languages are stuffed with basic errors, such as presupposing information they have not yet explained, not commenting code samples, or introducing multiple concepts at the same time. This volume is free of such errors.
+
+On the negative side, it is systematic and consistent to a fault, always working methodically from basic concepts up to higher-level ideas. This is a good fit with its comprehensive scope, but it comes at a significant cost. Pedagogically speaking, the best way to introduce a new idea is usually to give practical examples and to walk through them. In some chapters, it takes many pages to get to the first concrete illustration of any practical code - in particular, I think of the crucial and very long chapter on client programming.
+
+I found that the author's uniform adherence to a systematic exposition often made ideas more difficult to assimilate, and I sometimes had to put the book down and go to other tutorials for an introduction to ideas that immediately answered my key questions. In my view, all technical documentation whatsoever should begin by answering the questions "What is it?" and "What does it do?"
+
+Despite its liabilities, which make it in some ways more useful as a reference than a practical introduction, as I said I would recommend this book to literally any programmer getting started with JavaScript. Its virtues are considerable, and I have no doubt I will return to it again and again.
+Show more

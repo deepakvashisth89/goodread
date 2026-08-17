@@ -1,0 +1,3 @@
+This book provides explains some basic josekis. But be warned that these josekis may have variations beyond what is explained in the book. For those you might want to take a look at Kogo's joseki dictionary.
+As in any Go book, some of the diagrams might be too dense, especially if you are at the beginner level. For those cases, you might want to use a Go board. Alternatively, an interactive version of this book in SmartGo books: https://gobooks.com/books.html which gives you an inline interactive board that you can interact with.
+Show more

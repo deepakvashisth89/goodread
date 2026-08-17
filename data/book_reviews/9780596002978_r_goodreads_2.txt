@@ -1,0 +1,11 @@
+As the author himself says: "If you really think of yourself as an “idiot” when it comes to Unix, this book is not for you. Likewise, if you are a network administration “genius,” this book is probably not suitable either. If you fall anywhere between these two extremes, however, you’ll find this book has a lot to offer."
+
+I am a computational scientist, therefore I am somewhere in the middle between the previously mentioned extremes.
+
+This book assumes that you have a good understanding of computers and their operation and that you’re generally familiar with Unix system administration. Many concepts are ordinary knowledge both on everyday computing, and in the realm of duties of a computational scientist with technical duties and hand-on practice.
+
+The concepts are rigorously explained. There are exhaustive examples, accurate schemes, and useful figures.
+
+For me it will be a good reference. If you need some groundings for a collection of protocols used almost 24h/day in our current world, this is the right book to start with.
+
+Show more

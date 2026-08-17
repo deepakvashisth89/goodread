@@ -1,0 +1,1 @@
+This is a great, just amazingly great book about techniques to create a more solid code. A lot of small chunks of programming pearls which also will help you to deliver more succinct strategies on your team.It has a lot of C code, but don't be intimidate for that, all the completely understandable and easy to digest.Recommended to young and seasoned programmers.

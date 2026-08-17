@@ -1,0 +1,1 @@
+If you have designed and used more than one database, you may skip this book. This book would not offer much value to your time.

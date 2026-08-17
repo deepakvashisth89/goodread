@@ -1,0 +1,1 @@
+A good reference if you already know the concepts. Explanations are terse and ambiguous if you're a new student though.This book will work well as a pair for a lecture course but without the lectures it won't offer easy access to a new student to the concepts.

@@ -1,0 +1,14 @@
+It took me a month to read through the book.
+
+The core JavaScript part is comprehensive but a little bit boring, but the problem is caused by the language, not the book. Since JavaScript is a bad language, any other authors couldn't do much better.
+
+In the client-side part, some topics (Window, DOM, CSS, Events) are explained very well; some others (Ajax, jQuery, SVG, HTML5) are shallow.
+
+The two reference parts are not so necessary, because online references could serve better.
+
+I am a little confused by the author's English. For example, why are the titles of chapter 15 and 16 scripting aaa and scripting bbb, but the titles of chapter 18 and 21 scripted xxx and scripted yyy? Sometimes ECMAScript 5 is referred as ES5, some other times it is spelled with full name. Consistence is a problem.
+
+The layout of the book is not perfect either. Cross-page boxes are ugly. There are orphan subsection numbers. For example, there is only 10.1.3.1 under 10.1.3.
+
+The author tried his best to tell everything he knows, but not every good thing about JavaScript. Well, It's a mission impossible for a $30 book.
+Show more

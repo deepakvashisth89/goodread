@@ -1,0 +1,1 @@
+In 1995, my first job out of school was doing UNIX system administration. The O'Reilly SA book was my main reference, but this one became my secret weapon. Learning about sed, awk, regexp, etc. showed me the path to the career i quickly realized i wanted: software development.

@@ -1,0 +1,2 @@
+Really nice walkthrough from entering Vim to turning it in an IDE. I can’t say that after reading this book I can edit with VIM as fast as I can with VSCode, but it certainly showed how that can yield time savings after some more practice.
+Book itself was easy to read and explained even the most complex examples in “human-terms”.

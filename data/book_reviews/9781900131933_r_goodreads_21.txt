@@ -1,0 +1,1 @@
+A decent read on memory techniques. I am re-reading it again this year and attempting to implement some of the basic techniques.

@@ -1,0 +1,1 @@
+Although the main focus of the book is JavaScript, this book explores Java, HotJava, and HTML. This book provides users with the tools they need to connect HTML based content to Java applets. The user-friendly format takes the fear out of learning--even programming languages. (Communications/Networking)

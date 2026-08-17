@@ -1,0 +1,1 @@
+For my purposes, this book is perfect for a quick read on basic use of Unix CLI. I work with Unix/Linux CLI infrequently enough to forget - but work with it frequently enough to need the information in a hurry when the time comes.

@@ -1,0 +1,1 @@
+One of the best books I have ever read about how to approach architecting complex systems. I use the first section of heuristics / principles for architectures constantly.

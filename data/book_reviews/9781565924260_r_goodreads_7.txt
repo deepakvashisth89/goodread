@@ -1,0 +1,12 @@
+A decent compendium of information about vi(m).
+
+First let me mention that I (generally) use Vim keybindings from within an IDE, although for text files and (sometimes) simpler projects I will use Vim directly. I have little want to turn Vim into an IDE. I also am entirely uninterested in the other vi clones, and I completely skipped reading this part of the book. I'm also not a neophyte when it comes to Vim, but my knowledge is haphazard and has a lot of gaps.
+
+From my perspective, the most useful chapters were probably 5, 6, and 7. There are a number of ex commands that I'd never learned, and picking these up were quite useful. Context-sensitive substitution was also something that I'd managed to completely miss, which is an extremely useful tool.
+
+For Vim, chapter 11 on multiple windows was useful. Chapter 13, which shows an example of some of the customisation you can do with Graphical Vim and menus is interesting if nothing else, although I highly doubt I'll ever use it.
+
+The appendices are nice to have around for those commands that you don't use often and haven't built muscle-memory for, and is a good reason to keep the book lying around.
+
+All in all, this is a decent book that filled in a number of gaps for me, however, it's doubtful you'll want to read the entire thing.
+Show more

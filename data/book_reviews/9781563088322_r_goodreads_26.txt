@@ -1,0 +1,1 @@
+This was a helpful overview of developing library collections, but a little dry and tedious to read.

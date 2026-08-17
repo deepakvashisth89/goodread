@@ -1,0 +1,22 @@
+It seems at least, that every integer greater than 2 can be written as the sum of three primes.
+Goldbach, in a letter to Euler, 7/06/1742
+
+
+That ... every even integer is a sum of two primes, I regard as a completely certain theorem, although I cannot prove it.
+Euler, in a letter to Goldbach, 30/06/1742
+
+
+I absolutely loved this short novel written by a Greek mathematician, turned director, turned writer. As the story developed, Goldbach's conjecture, one of the most famous unsolved mathematical problems, became an epitome of talent and hubris, obsession and insanity, life and death.
+
+Especially recommended to those who ever experienced a mathematically-induced thrill (for example, while learning about fascinating properties of numbers and elegant mathematical proves, or while solving an interesting mathematical problem). On the other hand, if you think an interesting mathematical problem is an oxymoron, beware: in your case, this novel comes with no warranty.
+
+
+
+
+
+
+P.S. This novel was first published in 1992. I've just read a bit on Goldbach's Conjecture all over again and saw that the so called Goldbach's weak conjecture (every odd number greater than 5 can be expressed as the sum of three primes) was proved in 2013 by Harald Helfgott. The proof combines previous computations for smaller numbers (computing all the way up to huge numbers, actually) and Helfgott's general analytical proof for sufficiently large numbers.
+
+The strong Goldbach Conjecture, in the meantime, has been verified up to 10 to the 18th. There's still a name for this number, by the way -- quintillion. Also, a sugar cube contains about 10 to the 23rd power of molecules. On the other hand, according to ChatGpt's estimation, the amount of beans (uncle Petros's mathematical visualization device) on Earth is only about 10 to the 13th-14th power. Even with soybeans, lentils, chickpeas, peas, and other pulses, there are only a few quadrillion (10¹⁵) beans/pulses on Earth at any given time. Anyway, beans or no beans, it might take a while to prove Goldbach Conjecture yet, but somehow the enterprise looks less hopeless now.;)
+
+Show more

@@ -1,0 +1,8 @@
+According to the author, part I of this book is designed to get you started using vi and Vim quickly. I never used the word "quickly" to describe this book. More accurate adjectives are in-depth, comprehensive, and detailed. So be patient with this book and learning vi in general because the learning curve is steep. When this degree of detail is paired with the weirdness ratio of vi functionality, it is pretty easy to become bored; thus, if you are new to vi, I recommend using a different text. "Mastering Vim Quickly" by Jovica Ilic is a beautiful place to start. This book is a wonderful place to finish and is geared towards folks who already love vi and want to learn everything there is to know about it or maybe use it as a reference.
+
+Part I covers the functionality of all vi variants, and parts 2 and 3 focus mainly on advanced Vim features. Appendices A–D are excellent bonuses. They cover commands, syntaxes, macros etc. Overall, I suggest you read it if you are an enthusiastic vi user and want to learn more about it.
+
+
+
+.
+Show more

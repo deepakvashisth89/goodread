@@ -1,0 +1,21 @@
+When I was in my 20s, and began interested in information systems, this book was one I remembered fondly. I found a copy cheap on Amazon, so purchased it.
+
+Reading it a second time proved not as inspiring; after years of changing career direction (computer science and information systems, and design), I read my share of better books on the technical topic of information architecture.
+
+Still, this book is interesting in a historical sense, and points to the difficulty libraries found themselves in when this was written. I remember getting a tour of Temple University library, and being told that there were books a.) in the electronic catalog b.) in the paper card catalog (most of which were not in the electronic one, and the plan to get them there seemed very long term) and c.) digital books and articles housed in a different system, but were (somewhat) represented in the OPAC and not at all in the card catalog.
+
+This book alludes to this difficulty, but also concludes of the impossibility of response, impossible because the weight of time (she writes that a system, the MARC record, established and worked into a standard so long ago, and used for so long, cannot be replaced...it was like a big bank: too big to fail).
+
+Technology, though, tends to be determined, particularly when demand exists (the refrain of fear that libraries were going to die because of Google, or Google Scholar, or the other reasons given, proved to be wholly untrue). Open source software, discovery tools were disruptive, as were moves from private industry.
+
+These innovators were well aware of the problems this book points out, and did something about it...it is no understatement to state these innovations did much to save academic libraries (as did a population of younger librarians who were radical in their support of libraries).
+
+Invention hinges on this intersection: radical passion and a commitment to dig into something a bit tricky, boring or seemingly impossible (it also takes money or investment; and time, which is basically, more money..but whose counting, and I don't want to depress you when you were just getting started).
+
+There are some perhaps unintentional funny moments in this book...her use of the concept of 'mother-love' to explain a topic; her mentioning the possibility of a terrorist attack and what would happen if some important information system was damaged (not the damage to people, mind you).
+
+Overall, a brief (150-page) interesting text about the difficulties of information, of standards, and the difficulty of historical processes mixing with technological innovations. For quite a few books, one must read between the lines.
+
+B-
+
+Show more

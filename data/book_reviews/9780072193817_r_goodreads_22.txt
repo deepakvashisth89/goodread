@@ -1,0 +1,1 @@
+Hacking exposed 7I liked that the book had covered a wide range of hacks - windows, wireless, mobile.However, the book was lacking in the depth of techniques used for each attack. Would have preferred that the book described how each technique can be performed.

@@ -1,0 +1,1 @@
+Very good reference material for experienced and budding JavaScript programmers. Covers the latest APIs of HTML5/ES6 as well

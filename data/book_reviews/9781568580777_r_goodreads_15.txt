@@ -1,0 +1,29 @@
+Pierre de Fermat (1607-1665) was a French mathematician. Trained as a lawyer / he bought a position as councilor at court which supported him for the rest of his life. Descartes was somewhat his senior and Pascal his junior / but they were all alive at the same time. He corresponded with Pascal. He worked on problems in calculus that were later developed by Newton and Liebniz. The 17th Century was to see the end of the Renaissance / and was on the cusp of modernity.
+
+A book about physics that’s five or at most ten years old is not up-to-date. Advances in both astrophysics and quantum physics occur quickly. New advances in mathematics are being made every day / but not with the rapidity of those in physics.
+
+Fermat’s last theorem says that there aren’t three positive integers (, , ) that satisfy the following equation where positive integer is greater than 2 –
+
+
+
+After Fermat’s death his son found the equation written in the margin of one of his father’s books / with a note saying there wasn’t room in the margin to give the solution. The implication was that Fermat had a solution for the equation. Did he? No way to know. He did the same thing with other of his theorems / implying that he had solved them / but not anywhere giving the solution.
+
+Aczel’s writing is cogent and succinct / and written at a time when the theorem was being attacked by Andrew Wiles / an obsessive American mathematician. He had the help of the many who had worked on the theorem over the centuries and failed / and many others whose advances in mathematics contributed to his solution.
+
+The OED defines theorem – The American Heritage Dictionary – And more specifically when used in mathematics – A theorem has not necessarily been proven – it and The assumptions were made explicit by Fermat / at least we have record of them. The only presuppositions that were explicit are the rules of algebra.
+
+I won’t try to summarize the mathematics / because I can’t do it / and even if I could I would not want to confuse the clarity of Aczel’s terrific book. I didn’t study mathematics past algebra / and only a little of that – yet I was able to follow Aczel’s exposition of the solving of Fermat’s Last Theorem. It is worth the work of reading over more difficult sections twice. He begins by describing the occasion in England in 1993 when Professor Wiles / forty years old / presented his solution to Fermat’s Last Theorem to a stunned audience. Aczel then takes us back in time to provide historical underpinnings of number theory / followed by a return to the then present to tell us that flaws were found in Wiles’ proof. He writes about Pythagoras / number worshipers / the Babylonians / Eudoxus / Archimedes / Gauss / imaginary numbers / non-Euclidian geometry / and other mathematicians who did work that would later make possible Wiles’ eventual proof of the theorem. Speaking for example of Poincaré’s / he notes that He discusses intrigues between competing theories / and competing theorists. He describes such systems of thought as the use of graphs with real numbers on one axis and imaginary ones on the other / which produced very strange mathematical objects. By the 1980s / when another theorem was proved / it could be said that . But always true. Neither proven nor disproven. Aczel’s telling of the story is thrillingly engaging / with twists and turns of both thought and emotion. There were fascinating characters involved. It’s an exciting read.
+
+Wiles suffered many setbacks as he continued his work. At times he locked himself in the room at his home in which he was laboring – there were periods of agonizing despair. He enlisted help from a couple other mathematicians / ones he could trust not to make his work public. The news that Ken Ribet had proven the Epsilon Conjecture provided him with new mathematical insights that helped him progress. Mazur’s paper on the Eisenstein Ideal also helped him. Again / instead of publishing his paper in a peer-reviewed journal / he presented it at a conference. His 200-page paper was then sent to noted number theorists for review. His friend Nick Katz / who was one of those who had helped him with aspects of the proof / found a flaw. Wiles could not explain it away. Other mathematicians around the world had found the same problem. Again / failure. Andrew Wiles returned to Princeton in the fall of 1993. Another year passed. Sitting at his desk in Princeton –
+
+
+
+From Wiles –
+
+
+And from Aczel’s own conclusion –
+
+
+
+/ copyright © 2021 Alan Davies
+Show more

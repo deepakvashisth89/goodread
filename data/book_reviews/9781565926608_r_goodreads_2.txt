@@ -1,0 +1,1 @@
+This is a great book that will get you up to speed on the basics of Ethernet networking. I used it to supplement my studies during my first networking class gearing up for the CCNA test.

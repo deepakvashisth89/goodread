@@ -1,0 +1,1 @@
+This book made me realize I’m not quite ready for Kafka at this point in my life.

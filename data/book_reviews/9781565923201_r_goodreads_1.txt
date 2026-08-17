@@ -1,0 +1,1 @@
+Good beginner book on the subject. The Cisco configuration material would be outdated today in 2007 but the concepts are still the same.

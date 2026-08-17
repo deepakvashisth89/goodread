@@ -1,0 +1,2 @@
+Very useful! As a Linux novice I'm finding that most of what I've learned over the years about Windows systems doesn't translate, and Linux is not particularly intuitive to work with.
+vi and Vim are versions of a widely used Linux text editor; after searching through several online references, I am finding this book very useful in the process of building my first Linux website/server. I recommend this as a reference for anyone in this position.

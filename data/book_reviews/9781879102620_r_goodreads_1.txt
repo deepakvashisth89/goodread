@@ -1,0 +1,1 @@
+It's an okay book. It does a good job of explaining generally what the different applications of the software do- which I have a hard time getting ESRI's online support to tell me. But obviously by now it's a little outdated where it talks about the applications of the software. The logic behind the framework of geodatabase model is still good.

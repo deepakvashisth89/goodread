@@ -1,0 +1,1 @@
+Great book to learn the basics of ES5. It covers almost every topic. Though it feels a bit dated in 2017. All the topics and aspects of the language and client side API covered with equal importance and volume, even parts you would never use these days. I believe this makes the book larger than it should be.

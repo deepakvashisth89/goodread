@@ -1,0 +1,1 @@
+This is the book that introduced me to Unix. In the mid nineties I got an RA job at uni and my supervisor just gave me this book and told me to figure it out. Everything I know about bash/awk/sed I learned from this book.

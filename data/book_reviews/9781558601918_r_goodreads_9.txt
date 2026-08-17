@@ -1,0 +1,1 @@
+Most of the AI is GOFAI, i.e. mainly concerned with search and symbol manipulation. In my mind the best part of the book is the Lisp itself -- Norvig is a great programmer and writer.

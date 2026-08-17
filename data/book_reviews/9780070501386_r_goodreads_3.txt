@@ -1,0 +1,1 @@
+A Book of Abstract Algebra gives an excellent introduction to abstract algebra. The contents cover groups, rings, and fields as well as some history and additional related topics (such as a brief introduction to number theory). It is one of the most accessible books published by Dover and reads like a novel. Solutions to selected exercises are available in the back of the book.

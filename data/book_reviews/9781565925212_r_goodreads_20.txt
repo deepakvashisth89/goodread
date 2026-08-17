@@ -1,0 +1,3 @@
+Very good comprehensive and systematic overview of the JavaScript (ES5) language. I didn't read the book from the beginning to the end. I did this with Jon Duckett's JavaScript book. But every time I missed something there I could find an answer in this book. The language used by the author is quite dry but for my needs it was perfect.
+
+I'm excited about the upcoming 2020 edition.

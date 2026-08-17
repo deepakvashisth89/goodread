@@ -1,0 +1,10 @@
+I've been working on this book slowly and surely for awhile.
+
+I'm ultimately not going to finish it, as I really don't use vi, I use vim, and find the expansions offered by vim (too many to list) insanely useful, especially with my limited experience re: the macros.
+
+I'm not a pro, but as I get increasingly interested in working with increasingly outdated/limited workstations, software such as vim regularly amazes me in its capacity for working quickly without . . .
+
+I don't feel like starting an editor war. I like vi and vim. This book is, as far as I can tell, an excellent introduction, though probably best replaced by a good guide to vim.
+
+If someone has a recommendation (is O'Reilly the best for that as well?) please pass it along.
+Show more

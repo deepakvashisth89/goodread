@@ -1,0 +1,1 @@
+I just read the first six chapters to solve a quiz in An Introduction To Programming In Emacs Lisp.I still read this book everytime I need to write expressions.

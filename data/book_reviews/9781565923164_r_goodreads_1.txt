@@ -1,0 +1,1 @@
+As a dedicated customer of O'Reilly's "In a Nutshell" series for years, this book on Windows 95 is a great reference for all of the under the hood commands. While Win 95's popularity has bottomed out since the introduction of WinXP and Windows 7, this book has become overtaken by events... but still has its uses if you're running '95.

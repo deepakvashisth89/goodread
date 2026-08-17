@@ -1,0 +1,1 @@
+Too broadcovers a lot of topics on the expense of detailed and practical discussion. The book title gives the impression that you are about to uncover the secrets of network security, instead it barely touches on the surface by naming and counting famous network security tools. I like to think of this book as a general reference for information security

@@ -1,0 +1,1 @@
+If you're a programmer of any kind you should know regular expressions. And if you want to learn regular expressions, this is the bible. That's all there is to it.

@@ -1,0 +1,1 @@
+For the probability section, makes a fine (simpler) complement to Ross' 'A First Course in Probability'. Provides, as in Ross, many exercises but in a different style. The rest of the book is about regression including an interesting chapter on time series.

@@ -1,0 +1,3 @@
+great book. gives good understanding of the foundations on internet and some tcpip protocol.
+
+not only that, teaches everything there is to know about bind in several versions. easy language and another great oreilly book.

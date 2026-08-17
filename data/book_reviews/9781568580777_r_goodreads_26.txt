@@ -1,0 +1,4 @@
+As a brief story on the proving of a challenging mathematical theorem, this book may be interesting, as it explores how centuries of works of various kinds of great minds converged to one great end
+
+Simultaneously, I remain unsure who its target audience is. As a computer science researcher familiar with many of the underlying concepts, I found it incredibly hard to take it seriously and put it down after reading about two thirds. Many people that are completely unfamiliar with math, on the other hand, would probably also find the story dull, as it still seeks to spend a considerable amount of time explaining (albeit not in detail) the supporting theorems and proofs. There is probably some audience right in the middle, a group of people just getting into the world of science, who find it fascinating enough but are not yet familiar with the concepts, who might be in awe, but in general, I do not see a reason for hype
+Show more

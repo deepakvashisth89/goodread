@@ -1,0 +1,1 @@
+If you only usePerloccasionaly, this is a fantastic book. It is organized using "recipes" for accomplishing common tasks, so when you get stuck, you can look up the operation you are trying to implement.

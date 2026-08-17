@@ -1,0 +1,5 @@
+I have mixed feelings about this book, but then I find myself frequently going back to it when I need a more philosophical perspective on logic in a very readable and informal manner.
+The book's main strong points: it's a very readable and relatively simple introduction to classical logic, set theory and formal mathematical theory construction, written by one of the top logicians of the 20th century who was heavily involved in logical-empiricism and the development of modern logic, set theory and theoretical computer science. Its perspectives on things like identity, the link to model theory/metamathematics and general perspective of logic as part of the general methodology of science are quite appealing.
+
+At the same time, I somehow wish Tarsky's book was moderately more formal sometimes, mixing in more precise definitions, proofs etc...with the mostly verbal exposition. But then, don't expect this book to replace full blown logic textbook, it's more of a nice complement to studying/revising logic with a more informal and philosophical angle (philosophy in the analytic/logical-empiricist sense of logical analysis of language and science).
+Show more

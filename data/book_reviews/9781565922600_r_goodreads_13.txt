@@ -1,0 +1,1 @@
+By far the best idea/example book for UNIX scripting. Can be hard to find, but well worth the purchase.

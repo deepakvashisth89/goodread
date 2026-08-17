@@ -1,0 +1,27 @@
+This book covers vi, nvi, elvis, vim, and vile
+
+vi (visual) is probably one of the most flexible editors (notice it is an editor, not a word processor) that one can use. There are several ways to accomplish the same common tasks. There are so many ways in fact that most people learn just a subset of commands and string them together to do their editing instead of learning the more exotic commands.
+
+The advantage of an editor besides speed and simplicity is that you will not inadvertently place visually hidden code in the program as you can easily do with a word processor.
+
+People got so used to these editors in dos-based environments. You can still use the command line editor after the colon at the foot of the screen. When you find and use the abilities of vi you will wonder what you did without it.
+
+This book is a great starting place and you may never need another.
+
+The Topics include:
+
+- Basic editing
+- Moving around in a hurry
+- Beyond the basics
+- Greater power with ex
+- Global search and replacement
+- Customizing vi and ex
+- Command shortcuts
+- Introduction to vi clones’ extensions
+- The nvi, elvis, vim, and vile editors
+- Summary of vi and ex commands
+- Vi and the internet
+
+The examples are quite clear and plentiful.
+
+Show more

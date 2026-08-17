@@ -1,0 +1,1 @@
+A helpful overview of all tactical ideas (one main idea for each chapter), with supporting examples and tests at the end of each chapter. Some of the puzzles are quite good

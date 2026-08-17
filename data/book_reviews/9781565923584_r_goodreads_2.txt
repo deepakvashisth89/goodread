@@ -1,0 +1,1 @@
+This istheessential reference for VB and VBA programming. Friends don't let friends develop or maintain VB(A) code without it.

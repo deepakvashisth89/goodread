@@ -1,0 +1,1 @@
+Must have if you're looking to use a Unix based system. Includes tutorials, tips, and cookbook style tidbits to get you through some difficult task on the Unix command line. Should be on every serious *Nixers reference shelf.

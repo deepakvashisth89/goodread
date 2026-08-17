@@ -1,0 +1,1 @@
+Lots of fairly advanced advice on how to keep bugs out of your software. It's a 260 page book, but it took me quite a while to read. Because the advice is on C and not C++, I'm not sure how much it is going to help me. But it did give me an appreciation for professional programming.

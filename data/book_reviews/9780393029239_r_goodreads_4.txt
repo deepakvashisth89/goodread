@@ -1,0 +1,4 @@
+It is a book to learn the game theory from basic.
+This book is ideal as introduction to game theory.
+Learning the game theory by using the game.
+It is to incorporate all the basic essence of game theory.

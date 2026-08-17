@@ -1,0 +1,1 @@
+É um livro bem maçante, que funciona muito bem como documentação. Mas, se o objetivo for aprender JavaScript, talvez seja melhor pegar um livro pequeno e mais simples/orientado a prática primeiro. Depois leia essa Bíblia para aprender as minúcias.

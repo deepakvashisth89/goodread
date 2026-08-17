@@ -1,0 +1,1 @@
+Provides individual state and province maps showing mileages, recreational and historical sites, city maps, and trip-planning information

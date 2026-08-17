@@ -1,0 +1,8 @@
+This has been out of print for many years. I found it at Computer Book Works in lower Manhattan.
+
+A book from a simpler Internet, before Java libraries and Web service frameworks. Starts with socket programming, then gets into LWP.
+
+So far an ideal book for a front-end developer just starting to learn the "facts of life" of the server side. Just to reiterate, I am a front-end developer; that is, I took a couple of comp-sci classes, but mostly I studied art. So given that I knew absolutely nothing about, say, sockets, this book was, as Scott said, a timely find.
+
+Likewise, I didn't know about some small, useful Perl tools like GetOpt::Simple There's just one example of each, but hey, that's all you need.
+Show more

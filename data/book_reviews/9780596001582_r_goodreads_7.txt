@@ -1,0 +1,6 @@
+This is one of the fundamental book that ALL web developers should read. It increases my knowledge of why and how the internet works significantly. The concept of DNS is explained thoroughly and every easy to understand. Once you get the basic (witch is the first 100 pages or so), the rest of the book can be used to learn more about how Bind works and administrative works.
+
+As a web developer, what I learned from the first part of the book about DNS is invaluable. I can understand the network and be talking to IT/Networking guy with no hesitation about issues, i.e. why machine can't find one another, or why emails keep going to spam folder.
+
+Invest in your knowledge, it's invaluable.
+Show more

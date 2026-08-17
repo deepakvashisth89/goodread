@@ -1,0 +1,1 @@
+This book was a chief inspiration for my Leveller terrain modeler, as I wanted to see if one person could develop a large application with an extremely low bug count. And the answer was yes.

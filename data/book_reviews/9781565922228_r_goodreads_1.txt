@@ -1,0 +1,3 @@
+If you work with *nix - you need this book. Admining sendmail can be a dark art, and not for the feint of heart.
+
+I've been known to ask intern candidates "what's the bat book?" - yeah, it's that important.

@@ -1,0 +1,256 @@
+Review
+
+Unopinionated guide of pretty much every JS detail, it doesn't get into many suggestions on JS features to avoid or anything like it, the purpose is to explore the complete breadth and depth of the language available to you (up until ES5). I don't think it's a learn-to-program guide to complete beginners, for instance, not like Eloquent JavaScript by Marijn Haverbeke.
+
+I feel the book should've covered the event loop which is fundamental in order to completely understand JavaScript's single threaded execution and event processing.
+
+I like the scripting, clever-ish style used on the code samples which stretch the dynamic nature of the language, they just keep the book interesting.
+
+
+
+
+
+- Variable names cannot start with numbers in order to recognise numbers faster.
+- Exponential notation: 3e3 = 3 * (10^3), 3e-3 = 3 * (10^-3).
+- Underflow: when the result of an operation returns a value closer to zero than the smallest representable number.
+* Result is 0 unless it happens from a negative number, when result is -0 like -Number.MIN_VALUE/2 or -1/INFINITY.
+- Division by zero = NaN.
+- Number.MAX_VALUE + 1 = Number.POSITIVE_INFINITY.
+- NaN is the only value not equal to itself.
+- -0 == 0 but 1/-0 != 1/0 (cause INFINITY != -INFINITY).
+- Manipulate monetary values as integer cents to avoid rounding issues.
+- JS uses UTF-16 for encoding strings.
+- Strings are sequences of 16-bit values, some unicode chars whose code points don't fit, are stored using two 16-bit values known as a surrogate pair.
+* String manipulation methods aren't aware of surrogate pairs.
+- Using . or [] to access props on null or undefined causes a TypeError.
+- Strings are converted to objects (new String(val)) when accessing its properties, once properties are resolved, the object is discarded, same of Number() and Boolean().
+- When comparing objects: object to string conversions use toString() then valueOf, object to number is the opposite, trying the second property method if the first doesn't return a primitive value and then converting to a string or number respectively.
+- The ==, != and + operators use a special object to primitive conversion, valueOf() first and then toString(), for Dates is the opposite, using the result directly without forcing it to a number or string.
+- <, -, and other operators, same as above without the Date special case.
+- An expression is evaluated to produce some value.
+- A statement is executed to make something happen.
+* Statements are formed by combining expressions.
+- Labeled statements have local scope, so they're only visible to inner continue and break statements.
+- Labeled statements and variables have different namespaces, which means they can use the same identifiers.
+- If a finally block throws an exception, that one overrides any other exception thrown in the try block.
+* If it issues a return, it returns normally even if there are still not handled exceptions.
+- toLocaleString() returns a localised version.
+- Assignments return the value just assigned: (t = typeof o) !== "object").
+
+
+
+- Use getters and setters to make object properties read/write only, and to add custom logic on read/write.
+- Object.create(MyObject) is the same as "new MyObject()", it creates a new object and assigns the prototype of the passed in constructor as its prototype.
+- If constructors functions return a primitive value, it is discarded and an object is returned.
+- Object.defineProperties() creates configurable properties.
+- Data properties: the normal ones.
+- Accessor properties: props with getters and/or setters.
+- Object.getOwnPropertyDescriptor() gets the configuration object.
+- toString() returns the class of an object: "[object Regexp]".
+- Calling JSON.stringify() calls the method toJSON() if present on an object.
+- Object.preventExtensions(): new props cannot be added, check with Object.isExtensible().
+- Object.seal(): no props can be added, deleted or configured, existing ones are writable, check with Object.isSealed().
+- Object.freeze(): all of the above plus readonly existing own data properties but accessor properties can still be modified, check with Object.isFrozen().
+* They all return the object they are passed in Object.seal(), etc).
+
+
+
+- var arr = new Array(10) creates a sparse array by just setting the length prop, the elements are not undefined, they don't exist so arr[1] !== undefined.
+* delete arr[1] creates a sparse array, removes the element without changing the length.
+* !(index in arr) checks for non-existing elements on sparse arrays.
+- Array-like objects: have indexed props and a length prop.
+* Arrays on top of that: always update their length prop when adding/removing elements, length is always equals array max index + one, setting length to a smaller value removes elements, setting it to a grater value creates a sparse array.
+- Array.isArray() just does arr.toString() === "[object Array]".
+
+
+
+- Calling functions as functions on non-strict mode:
+* uses the global scope as the invocation context or if null/undefined is passed to bind, call, apply.
+* converts primitive values to their object representation if passed to bind, call, apply.
+- Calling them on strict mode:
+* defaults invocation context to undefined.
+* uses null/undefined and don't convert primitives to objects on bind, call, apply.
+- Parenthesis are optional for constructors without arguments: new Object === new Object().
+- Variadic/varargs: function with indefinite arity (multiple arguments).
+- Remember you can use static props/methods on functions.
+- toString() normally returns a string representation of the function including the body.
+- You can create functions with the The Function() constructor.
+* They don't use lexical scoping, meaning they don't create closures around their parent function and always compile as if they were top-level functions declared in the global scope, so references to parent functions variables will fail.
+
+
+
+- Functions get a prototype with a single nonenumerable property: constructor.
+- For all functions fn the prototype constructor points back to them: fn.prototype.constructor === fn.
+* So objects created by these functions inherit a constructor which points back to the function that created them.
+- Instance fields: are created inside the function (this.val = some_argument).
+- Inherited fields/methods: are added to the prototype.
+- Static fields/methods: are added to the function (myFn.staticMethod = ...).
+- instanceOf returns true if the function is part of the object's prototype chain.
+* One shortcoming is that it won't work if there are multiple execution contexts like different iframes on a browser cause each frame will have their own version of the objects, i.e. not the same objects.
+* So maybe using myObject.toString() which returns "[object myClass]" is more reliable than instanceOf or checking equality agains the constructor function.
+* Combine toString() and valueOf() to create interesting enumerated types.
+
+
+
+- [\b] a literal backspace.
+- \b is a word boundary.
+- [^...] any char not between the brackets.
+- (...) capturing group.
+- \n refer to capturing groups.
+- (?: ...) group only without capturing.
+- (?=p) positive lookahead, require that following characters match "p" but don't include them in the match.
+- (?!p) negative lookahead.
+- string.search() same as indexOf() but with regex.
+- string.split() accepts regex.
+- /.../.exec() keeps state and updates a lastIndex prop every time is called, reset the prop to 0 to start from the beginning.
+
+
+
+- Describes JS The Good Parts
+- It's interesting how this 7-8 year old book is describing ES6, 7 features like: cost, let, destructuring, iterators, generators. As being already included in Mozilla's SpiderMonkey JS engine.
+- Rhino is a JS implementation written on Java, it allows access to Java APIs in JS.
+
+
+
+- You can embed JS in a page using the script tag, html event handlers, javascript: URLs.
+- .
+- Use arbitrary type="" attributes in script tags to embed content, browsers won't attempt to parse tags with not recognised types.
+- Security
+* Opening new windows can only happen in most cases in response to user input like click.
+* JS code can close windows it opened itself but not others without user confirmation.
+* The value prop of FileUpload elements cannot be set.
+* Same origin is defined as the protocol, host and port of a document.
+* Same origin applies for the origin of the document where the script is loaded and not the src attr of the script itself, i.e. if a host A includes a script hosted by host B, that script has full access to document B (the one who loaded it) and not document A (the one who hosts it).
+* It's the reason you can load scripts hosted by, let's say, a CDN into your page.
+* You can relax the same-origin policy by setting the domain prop of the Document to something like site.com rather than subdomain.site.com, for all documents/windows you need (e.g. iframes).
+* Can use the postMessage() method on window to communicate between fames.
+* Access-Control- Allow-Origin for relaxing same-origin policy.
+
+
+
+- window.location === document.location
+- document.URL is the url of the document when it first loaded, not including hash changes.
+- decodeURIComponent() to decode query strings or other URL parts.
+- location.assign() loads a specific page, .replace() replaces the browser history entry.
+- Cause page updates:
+* location = "next-page.com" (relative or absolute).
+* location = "#top".
+* location.search = "?abc=123".
+- history.back(), .forward(), .go().
+- You can access the history size (history.length) but not the actual URLs.
+- Using .open() and .write() on an iframe can be a way of saving history state on SPA's without modifying the actual document.
+- screen.availHeight and width have the available size, not including the task bar, etc.
+- window.onerror = (msg, url, line) => {} for capturing unhandled errors, holdover from when JS didn't include try/catch, must return true/false to signal handling, otherwise error will get to the console.
+- HTML elements with an id attr get added to the global object if there isn't a prop or global variable with the same name, same for name attr on elements that support it (form, form fields, img, iframe), holdover from early JS days.
+- Scripts can interact with multiple windows opened by them (subject to same origin policy).
+* window.open().opener contains the opener if opened by .open().
+- Accessing frames returns the frame window object:
+* window.frames['f1'] / window.frames.f1 / window.f1 / window[1].
+- What we call window is actually a WindowProxy that refers to the real window object.
+
+
+
+- images, forms, links; are props of document, holdover from early days containing HTMLCollection of those element types (only anchor tags with href).
+- document.documentElement refers to the root .
+- HTMLCollection can be indexed with string names as well as numbers, other than that is pretty much similar to NodeList.
+* They have an item() and namedItem() props, not much useful in JS cause of indexed prop access.
+* They are live collections, except NodeList returned by querySelectorAll().
+- Some browsers won't accept :link or :visited selectors on elements as this exposes browser history information.
+- element.children only includes element nodes, childNodes includes also text and comments.
+* Can use nodeType to distinguish.
+* firstChild, lastChild, nextSibling.. firstElementChild, lastElementChild, nextElementSibling.
+- outerHTML.
+- element.insetAdjacentHTML() prob not supported in Firefox.
+- innerText does not work on script tags, textContent does.
+* Treats some table elements as read-only (table, tbody, tr).
+* omits extraneous whitespace and tries to keep table formatting.
+- Calling appendChild(fr) passing a DocumentFragment, copies all fragment children and leaves it empty.
+- Viewport coordinates refer to the size of the visible document (window.innerHeight).
+* Document coords also include the scroll position (documentElement.offsetHeight).
+- getClientRect() for inline elements that span multiple lines, getBoundingClientRect() otherwise.
+* they return viewport coords.
+- window[pageXOffset | pageYOffset] or document.documentElement[scrollLeft | scrollTop].
+- document.elementFromPoint().
+* Mouse events already contain target element.
+- window.scrollTo() === .scroll(x, y /* document coords */).
+- window.scrollBy().
+- element.scrollIntoView(), similar behaviour to window.location.hash.
+- element.offsetWidth and height don't include margins.
+* .offsetLeft and top are relative to positioned parents, to get the exact position need to add up the parent's offset recursively.
+* clientWidth and height is the content size including padding, same as scrollWidth when there's no overflow, zero for inline elements.
+* clientLeft and top is the border size.
+- Calling form.submit() does not trigger the onsubmit handler.
+- document.referrer: link to the page who brought you here (same as HTTP referrer header).
+* lastModified, domain, cookie, title.
+- document.designMode = 'on' to set the whole document to 'contentditatble'.
+* document.execCommand(): runs edit commands on editable elements just like a rich text editor.
+
+
+
+- el.style.cssText and el.setAttribute('style', val).
+- e.style only has inline style attribute, window.getComputedStyle(el, null) for all styles.
+* relative values (percent, points) are converted to pixels.
+* colours to rgb(), rgba().
+* no shorthand properties.
+- document.styleSheets[i]
+* .disabled = true.
+* .cssRules array contains also @import and @page directives.
+
+
+
+- Return value is only significant on handlers registered as properties like onbeforeunload.
+- Event propagation phases:
+* 1st: capturing.
+* 2nd: trigger target event handlers.
+* 3rd: bubbling.
+* readystatechange is invoked right before window.load so maybe DOMContentLoaded is better (invoked when DOM is parsed and deferred scripts complete).
+
+
+
+- Ajax could be done by setting the src of an img tag and passing query strings which triggers a GET, the server must respond with an image, even a 1x1 pixels (web bugs).
+* Set the src of a hidden iframe, traversing iframes is subject to same-origin policy.
+* Set the src of a script tag, which is not subject to same-origin and can do cross-domain communication, data returned is JSON-encoded.
+^ Called JSONP: cause your service must send a padded-JSON response, i.e. passing the response as the argument to the passed callback which is then executed when the script downloads.
+- Content-Length, Date, Referrer, User-Agent headers are added automatically by XHR.
+* as well as handling cookies, charset, encoding, connection lifetime.
+- XHR request construction must follow an order:
+* req.open().
+* req.setRequestHeader().
+* req.send().
+- req.responseText for text MIME types.
+* req.responseXML for parsed, traversable HTML documents.
+* can override response MIME types and charset to prevent incorrect parsing.
+* FormData() can be used to transfer multipart/form-data which can include multiple file uploads and other data types.
+- CORS has to be supported by the browser.
+* XHR doesn't send usernames, pwd, cookies or HTTP authentication tokens as part of CORS requests.
+- EventSource API for server sent events.
+
+
+
+- Cookies, old API designed for server-side scripting, they're appended to every HTTP request, tend to store small pieces of data, implemented as an extension of HTTP.
+* Cookie in computing: small chunk of privileged or secret data.
+* Default lifetime is the browser process (not the tab), can be changed using max-age.
+* Default scope includes url path as well, can be changed to whole site by path='/'.
+* Values can't have commas, semicolons, spaces, store encoded with encodeURIComponent().
+* All cookies are stored as a string in document.cookie divided by semicolons.
+- Web Storage is newer, easier API, used to enhance user experience.
+* shared by same-origin (protocol, host, port).
+* not shared among browser vendors.
+* can trigger change events.
+- Cache Manifest: store the whole app locally.
+- localStorage is permanent.
+- sessionStorage has tab-scope also, dies when the tab is closed (may still be there is same tab is reopened).
+
+
+
+- History can hold state, including types like imageData, date, file.
+* It takes in a Structured Clone as state param (deep copy or clone).
+- postMessage() allow cross-origin communication between windows.
+- WebWorker can receive a structured clone as well.
+* Use the synchronous self.importScripts() inside workers.
+- Typed arrays hold only numbers and are way faster than normal arrays.
+* They're views of an underlying ArrayBuffer.
+* Use the DataView type to modify ArrayBuffer.
+- URL.createObjectURL() for BLOB, File, MediaStream.
+* URL.revokeObjectURL() to allow for garbage collection.
+Show more

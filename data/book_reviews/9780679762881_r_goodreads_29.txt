@@ -1,0 +1,10 @@
+High Output Management (1983) by Andy Grove (András Gróf) is a short distillation of Grove’s thoughts on management. Grove was a refugee from Hungary who escaped after 1956. He got a PhD in Chemical Engineering and then was one of the three co-founders of Intel.
+
+High Output Management uses the example of a ‘breakfast factory’ to describe how to deal with a changing organisation. There are Four Sections, the first introduces the breakfast factory, the second is about how management is a team game, the third on how management is about teams of teams and the final part on the players.
+
+Grove interestingly writes that middle managers are an absolutely key part of companies. The second section covers managerial leverage, meetings, decisions and planning. The third part looks at how organisations have mission oriented and functional sections. This part discussing the trade offs of centralising functions with the requirement to target certain missions was really good. In the Players section person management is examined.
+
+You can see why High Output Management is highly regarded in Silicon Valley. It’s short and to the point and Grove, the founder of a key company in the rise of the US tech industry, clearly knows what he’s talking about. It does cover a high tech engineering company rather than a software company but many of the ideas are applicable to most organisations.
+
+High Output Management is worth a read for anyone who is in technical management or aspires to be. It’s not a brilliant book but it is certainly a good one. It’s surprising to see that many people either regard it as fantastic or terrible.
+Show more

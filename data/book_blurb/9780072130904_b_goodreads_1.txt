@@ -1,0 +1,1 @@
+Observes the effects of recent attacks on computer networks and subsequent clean-up efforts to analyze the origin, structure, and technology of computer viruses as well as current detection and prevention measures.

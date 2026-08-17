@@ -1,0 +1,16 @@
+Hello there nerds!
+Okok, yeah this book might be useful also for non-nerd people, who would like to know more about computers and their story. And it's a pretty damn good book for readers like that!
+
+Pretty cool and eye-opening book for somebody that was not yet born in the times of transistor effect discovery and is just curious of how did the computers come to life.
+
+This book on the one hand gives a nice introduction / reminder of physics and electronics, explains how integrated cirtuits were invented and why was the need for them, but nevertheless the author focuses mostly on the people that made the inventions and their everyday work.
+The Schockley guy from the diode, Fairchild, Texas Instruments, Bob Noyce and Jack Kilby, Moore's law -- if those terms were for you just a "ring" in an ear, now after the lecture the people involved in the chip revolution will be a lot closer to you. What I additionally liked was to get properly introduced to the timeline of inventions, how people cooperated in new companies, how they were starting new companies and what can a patent war look like.
+
+I wonder how was the situation in other countries -- this book mentions only USA and slightly Japan (refferring also to the quality of production). I would really like to read a similar story, but one which also connects to the space missions.
+
+Because the Apollo 11 (allegedly xD) happened in 1969, when the first Bell's lab MOS transistors were found out in 1967, but TI's handheld calculator in 1972. So much shit happened one after another and were still happening (radio and TV).
+
+And now it's everyday life, which is hard to be imagined without the technology.
+Spoiler alert:
+When book ends, author gives examples of asking regular people from Texas and Dallas, home of the guys that solved the tyranny of numbers problem -- Jack Kilby and Bob Noyce, who invented integrated circuits that are in the products that they use all the times. Seems like people didn't know. Also the engineers were not that pushy to become more famous. And here lies the question. Should the engineers be more eager to become more popular to increase the drive for the technology further? Is it even important, or just being a happy consumer is all to it?
+Show more

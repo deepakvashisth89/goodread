@@ -1,0 +1,1 @@
+It's possible that knowing sed and awk is the most unglamorous skill one can possibly have as a software engineer. Nevertheless, I bought this book and have used sed quite frequently through out my career, because I do a lot of crude text parsing. It's a good book, and the colophon is even cooler than the O'Reilly vi book. Long live O'Reilly!

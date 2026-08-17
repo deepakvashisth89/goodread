@@ -1,0 +1,10 @@
+This is a qualified 4-star. The examples are somewhat dated as the book was written in 1990, and they do have a decidedly American flavour to them. This feels like a book written by people at Harvard business school, *for* people at Harvard business school. Not that that's necessarily a bad thing.
+
+The major take aways:
+- Look to the last action and reason backwards. This will help you recognise and avoid forced moved.
+- There are differences in outcome depending on whether the game you are playing is one where players move simultaneously, or sequentially.
+- Look for dominant strategies. If you have one, use it. If they have one, use your best move presuming they will use it (they'd be stupid not to).
+- Collective action problems (of which the prisoner's dilemma is a subset) show up everywhere. Learn how to recognise them in your life and be the person implementing the enforceable agreement to resolve it, if possible.
+
+Glad I read this but wouldn't read it again. Would definitely use it as a reference though.
+Show more

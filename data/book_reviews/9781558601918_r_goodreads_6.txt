@@ -1,0 +1,1 @@
+Forever a classic programmer's guide to LISP and AI. This book, while dated, is a guide to understanding the principles of AI programming.
